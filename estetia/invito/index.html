@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Invito - Estetia</title>
+<style>
+  :root{ --rosa:#E8788A; --scuro:#2B2430; --grigio:#6B6472; --bordo:#F0E2E6; --sfondo:#FFF9FA; }
+  *{ box-sizing:border-box; }
+  body{ margin:0; padding:24px 16px; background:var(--sfondo); color:var(--scuro);
+        font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
+        display:flex; justify-content:center; }
+  main{ width:100%; max-width:420px; }
+  h1{ font-size:24px; margin:0 0 6px; }
+  p{ line-height:1.55; color:var(--grigio); margin:0 0 16px; }
+  .codice{ font-size:30px; font-weight:700; letter-spacing:5px; text-align:center;
+           background:#fff; border:2px dashed var(--bordo); border-radius:14px;
+           padding:16px; margin:18px 0; word-break:break-all; }
+  a.bottone{ display:block; text-align:center; text-decoration:none; font-weight:600;
+             padding:15px; border-radius:14px; margin-bottom:10px; }
+  .primario{ background:var(--rosa); color:#fff; }
+  .secondario{ background:#fff; color:var(--scuro); border:1px solid var(--bordo); }
+  .nota{ font-size:13.5px; margin-top:22px; }
+  footer{ margin-top:28px; font-size:12px; color:#A9A2B0; text-align:center; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Ti hanno invitata su Estetia</h1>
+  <p id="intro">Con questo codice ti colleghi al centro estetico: potrai prenotare e vedere i tuoi appuntamenti dall'app.</p>
+
+  <div class="codice" id="codice">-</div>
+
+  <a class="bottone primario" id="apri" href="#">Apri nell'app</a>
+  <a class="bottone secondario" id="installa"
+     href="https://play.google.com/store/apps/details?id=com.estetia.agenda">Installa Estetia da Google Play</a>
+
+  <p class="nota" id="nota">
+    Se hai gia' l'app, tocca <b>Apri nell'app</b>: il codice viene inserito da solo.
+    Se non ce l'hai ancora, installala e poi torna qui, oppure inserisci il codice
+    a mano da <b>Cloud &rsaquo; Collegati a un centro</b>.
+  </p>
+
+  <footer>Estetia - AppVita Studio</footer>
+</main>
+
+<script>
+(function () {
+  // Il codice arriva come ?c=ABC123. Si accetta anche #c=... per sicurezza,
+  // perche' alcune app di messaggistica accorciano o riscrivono i link.
+  function leggiCodice() {
+    var q = new URLSearchParams(location.search).get('c');
+    if (!q && location.hash) {
+      q = new URLSearchParams(location.hash.replace(/^#/, '')).get('c');
+    }
+    return (q || '').trim().toUpperCase();
+  }
+
+  var codice = leggiCodice();
+  var elCodice = document.getElementById('codice');
+  var apri = document.getElementById('apri');
+
+  if (!codice) {
+    // Senza codice la pagina non deve mentire dicendo "tocca Apri".
+    elCodice.textContent = 'codice mancante';
+    elCodice.style.fontSize = '17px';
+    elCodice.style.letterSpacing = '0';
+    apri.style.display = 'none';
+    document.getElementById('nota').innerHTML =
+      "Questo link non contiene nessun codice invito. Chiedi al centro di rimandartelo, " +
+      "oppure inserisci il codice a mano nell'app da <b>Cloud &rsaquo; Collegati a un centro</b>.";
+    return;
+  }
+
+  elCodice.textContent = codice;
+
+  // Schema dedicato: funziona anche quando Android non ha ancora verificato
+  // il collegamento fra sito e app, che e' il caso piu' comune subito dopo
+  // l'installazione.
+  apri.href = 'estetia://invito?c=' + encodeURIComponent(codice);
+
+  // Se l'app non c'e', il tentativo non porta da nessuna parte: dopo un attimo
+  // si suggerisce di installarla, senza forzare un redirect a sorpresa.
+  apri.addEventListener('click', function () {
+    var partito = false;
+    document.addEventListener('visibilitychange', function segna() {
+      if (document.hidden) partito = true;
+      document.removeEventListener('visibilitychange', segna);
+    });
+    setTimeout(function () {
+      if (!partito) {
+        document.getElementById('nota').innerHTML =
+          'Non sembra che Estetia sia installata su questo telefono. ' +
+          'Installala da Google Play qui sopra, poi riapri questo link.';
+      }
+    }, 1500);
+  });
+})();
+</script>
+</body>
+</html>
