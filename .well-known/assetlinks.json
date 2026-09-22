@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.estetia.agenda",
+      "sha256_cert_fingerprints": [
+        "4D:DC:D8:16:54:A5:AE:57:CD:ED:39:41:61:C0:44:A2:D0:FB:27:7C:13:DD:84:14:48:A8:BF:16:2B:79:A5:D0",
+        "F9:7E:57:CC:3C:A5:B5:91:2E:A4:0B:2D:C4:C0:2D:8F:B1:68:91:4E:33:4A:FA:75:A1:E4:8C:5B:9C:D2:73:9D"
+      ]
+    }
+  }
+]
