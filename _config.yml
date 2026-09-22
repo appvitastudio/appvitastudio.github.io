@@ -1,0 +1,6 @@
+# Jekyll esclude dal sito tutto cio che inizia con un punto.
+# Senza questa riga /.well-known/assetlinks.json restava 404 e Android non
+# verificava mai il collegamento fra il sito e l app Estetia: i link di invito
+# finivano nel browser invece di aprire l app.
+include:
+  - .well-known
