@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data: blob:; font-src 'self'; connect-src 'none'; worker-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'; manifest-src 'self'">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Invisible Text Detector: Find Hidden Prompts in Text</title>
+<meta name="description" content="Reveal text hidden with Unicode tag characters, variation selectors or zero-width steganography. Decode the hidden message and see exactly where it is.">
+<link rel="canonical" href="https://appvitastudio.github.io/puliora/invisible-text-detector/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Puliora">
+<meta property="og:title" content="Invisible Text Detector: Find Hidden Prompts in Text">
+<meta property="og:description" content="Reveal text hidden with Unicode tag characters, variation selectors or zero-width steganography. Decode the hidden message and see exactly where it is.">
+<meta property="og:url" content="https://appvitastudio.github.io/puliora/invisible-text-detector/">
+<meta property="og:image" content="https://appvitastudio.github.io/puliora/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#0b6b57">
+<meta name="referrer" content="no-referrer">
+<link rel="icon" href="/puliora/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/puliora/icon-512.png">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"Puliora – Invisible text detector","url":"https://appvitastudio.github.io/puliora/invisible-text-detector/","applicationCategory":"UtilitiesApplication","operatingSystem":"Any (web browser)","isAccessibleForFree":true,"offers":{"@type":"Offer","price":"0","priceCurrency":"EUR"},"description":"Reveal text hidden with Unicode tag characters, variation selectors or zero-width steganography. Decode the hidden message and see exactly where it is.","publisher":{"@type":"Organization","name":"AppVita Studio","email":"appvitastudio@proton.me"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is ASCII smuggling?","acceptedAnswer":{"@type":"Answer","text":"Hiding readable text with Unicode tag characters, which are invisible to people but readable by software and language models."}},{"@type":"Question","name":"Can emoji hide data?","acceptedAnswer":{"@type":"Answer","text":"Yes: variation selectors appended to an emoji can encode arbitrary bytes. Puliora detects and decodes this."}},{"@type":"Question","name":"Does it detect hidden text in PDFs?","acceptedAnswer":{"@type":"Answer","text":"Paste text copied from the PDF; the PDF file itself is not parsed."}},{"@type":"Question","name":"Is the decoded text sent anywhere?","acceptedAnswer":{"@type":"Answer","text":"No. Decoding happens on your device and the result is displayed as plain text."}},{"@type":"Question","name":"Does it detect AI-written text?","acceptedAnswer":{"@type":"Answer","text":"No. It finds characters, not authors."}}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Puliora","item":"https://appvitastudio.github.io/puliora/"},{"@type":"ListItem","position":2,"name":"Invisible text detector","item":"https://appvitastudio.github.io/puliora/invisible-text-detector/"}]}</script>
+  <script type="module" crossorigin src="/puliora/assets/main-2w0S0LQL.js"></script>
+  <link rel="stylesheet" crossorigin href="/puliora/assets/main-BjJuwfHD.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="site-header"><div class="wrap hdr">
+<a class="logo" href="/puliora/"><svg viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="8" fill="var(--accent)"/><path d="M11.5 8.5H8v15h3.5M20.5 8.5H24v15h-3.5" fill="none" stroke="var(--accent-ink)" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/><circle cx="16" cy="16" r="2.7" fill="var(--accent-ink)"/></svg><span>Puliora</span></a>
+<nav class="nav" id="site-nav" aria-label="Main"><a href="/puliora/" data-i18n="nav.tool">Cleaner</a><a href="/puliora/files/" data-i18n="nav.files" data-nav="files">Files & batch</a><a href="/puliora/how-it-works/" data-i18n="nav.how">How it works</a><a href="/puliora/developers/" data-i18n="nav.dev">Developers</a><a href="/puliora/pricing/" data-i18n="nav.pricing">Pricing</a></nav>
+<div class="hdr-controls" id="hdr-controls"><button type="button" class="btn btn-icon nav-toggle" id="nav-toggle" aria-controls="site-nav" aria-expanded="false" aria-label="Menu"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button></div>
+</div></header>
+<main id="main" class="wrap">
+<p class="crumbs"><a href="/puliora/">Puliora</a> › Invisible text detector</p>
+<section class="hero"><h1>Invisible text detector</h1><p class="lead">Text can carry a whole message that no one sees: instructions for an AI assistant, a tracking code, a secret. Puliora finds these payloads, decodes them as inert text and removes them.</p><ul class="badges"><li data-i18n="badge.local">Runs locally</li><li data-i18n="badge.noupload">Nothing uploaded</li><li data-i18n="badge.noaccount">No account</li><li data-i18n="badge.free">Free</li></ul></section>
+<div id="tool" data-sample="hidden"><noscript><p class="callout">The cleaner needs JavaScript. Everything runs locally in your browser.</p></noscript></div>
+
+<section class="content prose">
+
+<h2>ASCII smuggling with tag characters</h2>
+<p>The Unicode block U+E0000–U+E007F contains invisible copies of every printable ASCII character. Most apps do not draw them, but language models read them. In 2024 the security researcher Johann Rehberger showed how such hidden text can steer AI assistants and recommended filtering these characters on input and output. Puliora decodes any tag-character text it finds and shows it as plain text — it is never executed or sent anywhere. The only legitimate use, subdivision flags such as 🏴 England, is recognised and kept.</p>
+<h2>Emoji smuggling with variation selectors</h2>
+<p>There are 256 variation selectors. In 2025 Paul Butler documented how to encode arbitrary bytes as a string of selectors after a single emoji: the emoji looks identical and the data survives copy-paste. A base character can legitimately carry only one selector, so Puliora flags every extra one and decodes the bytes when they form readable text.</p>
+<h2>Zero-width steganography</h2>
+<p>Strings of two or four different zero-width characters can encode binary data. Puliora reports long runs as possible hidden data and attempts the common decodings. A failed decoding proves nothing: other schemes exist, and the characters are removed either way.</p>
+<h2>Why this matters for LLM apps</h2>
+<p>If you build with language models, filter hidden characters from user input, retrieved documents (RAG) and model output. The <a href="/puliora/developers/">developer tools</a> and the Chrome extension help in day-to-day work; look-alike letters are covered by the <a href="/puliora/homoglyph-detector/">homoglyph detector</a>.</p>
+<h2>Hidden text in PDFs</h2>
+<p>PDF files are not opened directly. Copy the text from the PDF and paste it here: hidden characters are copied with it.</p>
+<h2>Frequently asked questions</h2><details class="faq"><summary>What is ASCII smuggling?</summary><p>Hiding readable text with Unicode tag characters, which are invisible to people but readable by software and language models.</p></details><details class="faq"><summary>Can emoji hide data?</summary><p>Yes: variation selectors appended to an emoji can encode arbitrary bytes. Puliora detects and decodes this.</p></details><details class="faq"><summary>Does it detect hidden text in PDFs?</summary><p>Paste text copied from the PDF; the PDF file itself is not parsed.</p></details><details class="faq"><summary>Is the decoded text sent anywhere?</summary><p>No. Decoding happens on your device and the result is displayed as plain text.</p></details><details class="faq"><summary>Does it detect AI-written text?</summary><p>No. It finds characters, not authors.</p></details>
+</section>
+</main>
+<footer class="site-footer"><div class="wrap">
+<div class="cols"><nav aria-label="Tools"><a href="/puliora/">Invisible character remover</a><a href="/puliora/chatgpt-watermark-remover/">ChatGPT watermark remover</a><a href="/puliora/zero-width-space-remover/">Zero-width space remover</a><a href="/puliora/non-breaking-space-remover/">Non-breaking space remover</a><a href="/puliora/em-dash-remover/">Em dash remover</a><a href="/puliora/invisible-text-detector/">Invisible text detector</a><a href="/puliora/homoglyph-detector/">Homoglyph detector</a><a href="/puliora/pdf-text-fixer/">PDF text fixer</a><a href="/puliora/unicode-inspector/">Unicode inspector</a><a href="/puliora/files/">Files & batch</a></nav>
+<nav aria-label="About"><a href="/puliora/how-it-works/">How it works</a><a href="/puliora/developers/">Developers</a><a href="/puliora/pricing/">Pricing</a><a href="/puliora/privacy/">Privacy</a><a href="/puliora/terms/">Terms</a><a href="mailto:appvitastudio@proton.me">appvitastudio@proton.me</a></nav></div>
+<p><span data-i18n="footer.local">This page cannot send your text anywhere: network requests are blocked by its Content Security Policy.</span></p>
+<p><span data-i18n="footer.studio">Puliora is made by AppVita Studio.</span> · <span id="unicode-version">Unicode data 18.0.0 (© Unicode, Inc.)</span></p>
+</div></footer>
+</body>
+</html>

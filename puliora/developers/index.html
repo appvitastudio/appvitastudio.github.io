@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data: blob:; font-src 'self'; connect-src 'none'; worker-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'; manifest-src 'self'">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Puliora for Developers: Unicode Sanitizer, API &amp; Extension</title>
+<meta name="description" content="Catch Trojan Source bidi controls, tag-character prompt injection and homoglyphs in pipelines. Chrome extension with no host permissions; REST API soon.">
+<link rel="canonical" href="https://appvitastudio.github.io/puliora/developers/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Puliora">
+<meta property="og:title" content="Puliora for Developers: Unicode Sanitizer, API &amp; Extension">
+<meta property="og:description" content="Catch Trojan Source bidi controls, tag-character prompt injection and homoglyphs in pipelines. Chrome extension with no host permissions; REST API soon.">
+<meta property="og:url" content="https://appvitastudio.github.io/puliora/developers/">
+<meta property="og:image" content="https://appvitastudio.github.io/puliora/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#0b6b57">
+<meta name="referrer" content="no-referrer">
+<link rel="icon" href="/puliora/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/puliora/icon-512.png">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Is there a REST API?","acceptedAnswer":{"@type":"Answer","text":"Not yet. It is implemented and tested locally but not deployed; this page will say so when it is available."}},{"@type":"Question","name":"What does the extension access?","acceptedAnswer":{"@type":"Answer","text":"Only the selection of the tab where you invoke it, after your click, and the clipboard only when you press Paste & clean clipboard. It stores only its settings. No host permissions."}},{"@type":"Question","name":"How are rules versioned?","acceptedAnswer":{"@type":"Answer","text":"Rules have stable IDs; reports state the engine version and the Unicode data version used."}}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Puliora","item":"https://appvitastudio.github.io/puliora/"},{"@type":"ListItem","position":2,"name":"Developers","item":"https://appvitastudio.github.io/puliora/developers/"}]}</script>
+  <script type="module" crossorigin src="/puliora/assets/main-2w0S0LQL.js"></script>
+  <link rel="stylesheet" crossorigin href="/puliora/assets/main-BjJuwfHD.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="site-header"><div class="wrap hdr">
+<a class="logo" href="/puliora/"><svg viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="8" fill="var(--accent)"/><path d="M11.5 8.5H8v15h3.5M20.5 8.5H24v15h-3.5" fill="none" stroke="var(--accent-ink)" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/><circle cx="16" cy="16" r="2.7" fill="var(--accent-ink)"/></svg><span>Puliora</span></a>
+<nav class="nav" id="site-nav" aria-label="Main"><a href="/puliora/" data-i18n="nav.tool">Cleaner</a><a href="/puliora/files/" data-i18n="nav.files" data-nav="files">Files & batch</a><a href="/puliora/how-it-works/" data-i18n="nav.how">How it works</a><a href="/puliora/developers/" data-i18n="nav.dev" aria-current="page">Developers</a><a href="/puliora/pricing/" data-i18n="nav.pricing">Pricing</a></nav>
+<div class="hdr-controls" id="hdr-controls"><button type="button" class="btn btn-icon nav-toggle" id="nav-toggle" aria-controls="site-nav" aria-expanded="false" aria-label="Menu"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button></div>
+</div></header>
+<main id="main" class="wrap">
+<p class="crumbs"><a href="/puliora/">Puliora</a> › Developers</p>
+<section class="hero"><h1>Puliora for developers</h1><p class="lead">The same deterministic engine behind the cleaner, for code reviews, data pipelines and LLM applications.</p><ul class="badges"><li data-i18n="badge.local">Runs locally</li><li data-i18n="badge.noupload">Nothing uploaded</li><li data-i18n="badge.noaccount">No account</li><li data-i18n="badge.free">Free</li></ul></section>
+
+
+<section class="content prose">
+
+<h2>Developer mode</h2>
+<p>Open the <a href="/puliora/unicode-inspector/">Unicode inspector</a> for code points, UTF-16 offsets, UTF-8 bytes, escapes in six notations and a JSON report with an exact change log. Pick <em>Source code</em> as format to also report escaped invisible characters such as <code>"\u200B"</code>.</p>
+<h2>Chrome extension</h2>
+<p>Right-click selected text and choose <em>Clean with Puliora</em>, or clean the clipboard from the toolbar popup. It asks for these permissions only (the list is read from the extension's manifest when this page is built):</p>
+<ul><li><code>activeTab</code> — access to the current tab only after you click the toolbar button or the context menu item</li><li><code>clipboardRead</code> — reads the clipboard only when you click <em>Paste &amp; clean clipboard</em> in the popup, never in the background</li><li><code>contextMenus</code> — adds <em>Clean with Puliora</em> to the right-click menu for selected text</li><li><code>scripting</code> — reads the selected text in the tab where you invoked the extension (together with activeTab)</li><li><code>storage</code> — keeps your settings in the browser</li></ul>
+<p>There are no host permissions, so it can read a page only after you click it, and it never sends text anywhere. <strong>Status:</strong> built and tested, not yet published on the Chrome Web Store.</p>
+<h2>REST API</h2>
+<p><strong>Status: in preparation, not available yet.</strong> The API will expose the same engine:</p>
+<pre><code>POST /v1/clean
+Authorization: Bearer &lt;key&gt;
+Content-Type: application/json
+
+{ "text": "Hello\u200Bworld", "options": { "preset": "safe" }, "includeChanges": true }
+
+200 OK
+{ "output": "Helloworld", "changeCount": 1,
+  "changes": [{ "start": 5, "end": 6, "original": "\u200B", "replacement": "", "ruleIds": ["zwsp"] }],
+  "groups": [{ "ruleId": "zwsp", "codePoint": "U+200B", "count": 1, "severity": "medium", "action": "remove" }],
+  "unicodeVersion": "18.0.0" }</code></pre>
+<p>Texts sent to the API will be processed in memory and never logged. Want access when it opens? Write to <a href="mailto:appvitastudio@proton.me?subject=Puliora%20API">appvitastudio@proton.me</a>.</p>
+<h2>Threats worth filtering</h2>
+<ul><li><strong>Trojan Source</strong>: bidi overrides and isolates that make code render differently from how it compiles — reported as high severity with unbalanced-control detection.</li>
+<li><strong>Prompt injection in tag characters</strong> and data in variation selectors — decoded (<a href="/puliora/invisible-text-detector/">details</a>).</li>
+<li><strong>Homoglyph identifiers</strong> — mixed-script words (<a href="/puliora/homoglyph-detector/">details</a>).</li></ul>
+<h2>Rules and versioning</h2>
+<p>Every rule has a stable ID (for example <code>zwsp</code>, <code>bidi-override</code>, <code>tag-hidden</code>) and a documented default per preset; reports include the engine version and the Unicode data version. See <a href="/puliora/how-it-works/#rules">the rule list</a>.</p>
+<h2>Frequently asked questions</h2><details class="faq"><summary>Is there a REST API?</summary><p>Not yet. It is implemented and tested locally but not deployed; this page will say so when it is available.</p></details><details class="faq"><summary>What does the extension access?</summary><p>Only the selection of the tab where you invoke it, after your click, and the clipboard only when you press Paste & clean clipboard. It stores only its settings. No host permissions.</p></details><details class="faq"><summary>How are rules versioned?</summary><p>Rules have stable IDs; reports state the engine version and the Unicode data version used.</p></details>
+</section>
+</main>
+<footer class="site-footer"><div class="wrap">
+<div class="cols"><nav aria-label="Tools"><a href="/puliora/">Invisible character remover</a><a href="/puliora/chatgpt-watermark-remover/">ChatGPT watermark remover</a><a href="/puliora/zero-width-space-remover/">Zero-width space remover</a><a href="/puliora/non-breaking-space-remover/">Non-breaking space remover</a><a href="/puliora/em-dash-remover/">Em dash remover</a><a href="/puliora/invisible-text-detector/">Invisible text detector</a><a href="/puliora/homoglyph-detector/">Homoglyph detector</a><a href="/puliora/pdf-text-fixer/">PDF text fixer</a><a href="/puliora/unicode-inspector/">Unicode inspector</a><a href="/puliora/files/">Files & batch</a></nav>
+<nav aria-label="About"><a href="/puliora/how-it-works/">How it works</a><a href="/puliora/developers/">Developers</a><a href="/puliora/pricing/">Pricing</a><a href="/puliora/privacy/">Privacy</a><a href="/puliora/terms/">Terms</a><a href="mailto:appvitastudio@proton.me">appvitastudio@proton.me</a></nav></div>
+<p><span data-i18n="footer.local">This page cannot send your text anywhere: network requests are blocked by its Content Security Policy.</span></p>
+<p><span data-i18n="footer.studio">Puliora is made by AppVita Studio.</span> · <span id="unicode-version">Unicode data 18.0.0 (© Unicode, Inc.)</span></p>
+</div></footer>
+</body>
+</html>

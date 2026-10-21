@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data: blob:; font-src 'self'; connect-src 'none'; worker-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'; manifest-src 'self'">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ChatGPT Watermark Remover: What It Can and Can't Remove</title>
+<meta name="description" content="Removes hidden characters and odd spaces from ChatGPT text. It can't remove statistical watermarks like textGrain or SynthID, and we explain why. Free.">
+<link rel="canonical" href="https://appvitastudio.github.io/puliora/chatgpt-watermark-remover/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Puliora">
+<meta property="og:title" content="ChatGPT Watermark Remover: What It Can and Can't Remove">
+<meta property="og:description" content="Removes hidden characters and odd spaces from ChatGPT text. It can't remove statistical watermarks like textGrain or SynthID, and we explain why. Free.">
+<meta property="og:url" content="https://appvitastudio.github.io/puliora/chatgpt-watermark-remover/">
+<meta property="og:image" content="https://appvitastudio.github.io/puliora/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#0b6b57">
+<meta name="referrer" content="no-referrer">
+<link rel="icon" href="/puliora/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/puliora/icon-512.png">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"Puliora – ChatGPT watermark remover","url":"https://appvitastudio.github.io/puliora/chatgpt-watermark-remover/","applicationCategory":"UtilitiesApplication","operatingSystem":"Any (web browser)","isAccessibleForFree":true,"offers":{"@type":"Offer","price":"0","priceCurrency":"EUR"},"description":"Removes hidden characters and odd spaces from ChatGPT text. It can't remove statistical watermarks like textGrain or SynthID, and we explain why. Free.","publisher":{"@type":"Organization","name":"AppVita Studio","email":"appvitastudio@proton.me"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Is U+202F a ChatGPT watermark?","acceptedAnswer":{"@type":"Answer","text":"There is no evidence that it is an intentional watermark. Press reports from 2025 quote OpenAI describing it as an unintended side effect. It is still worth removing, because it breaks search and comparisons."}},{"@type":"Question","name":"Can any tool remove OpenAI's or Claude's statistical watermark?","acceptedAnswer":{"@type":"Answer","text":"Not without changing the words. A statistical watermark is a pattern in word choices, not a character. Only substantial rewriting weakens it, and that changes the text."}},{"@type":"Question","name":"Will this make my text undetectable?","acceptedAnswer":{"@type":"Answer","text":"No, and we do not claim it. Removing characters does not change the words that detectors and watermark checkers analyse."}},{"@type":"Question","name":"Does Claude add hidden characters?","acceptedAnswer":{"@type":"Answer","text":"According to Anthropic's own description of its text watermark, no: nothing is added to the text. Puliora will still show any unusual character that is present for other reasons."}},{"@type":"Question","name":"Is it free?","acceptedAnswer":{"@type":"Answer","text":"Yes. Cleaning text is free, up to 20 MB of text at a time, and runs on your device."}}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Puliora","item":"https://appvitastudio.github.io/puliora/"},{"@type":"ListItem","position":2,"name":"ChatGPT watermark remover","item":"https://appvitastudio.github.io/puliora/chatgpt-watermark-remover/"}]}</script>
+  <script type="module" crossorigin src="/puliora/assets/main-2w0S0LQL.js"></script>
+  <link rel="stylesheet" crossorigin href="/puliora/assets/main-BjJuwfHD.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="site-header"><div class="wrap hdr">
+<a class="logo" href="/puliora/"><svg viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="8" fill="var(--accent)"/><path d="M11.5 8.5H8v15h3.5M20.5 8.5H24v15h-3.5" fill="none" stroke="var(--accent-ink)" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/><circle cx="16" cy="16" r="2.7" fill="var(--accent-ink)"/></svg><span>Puliora</span></a>
+<nav class="nav" id="site-nav" aria-label="Main"><a href="/puliora/" data-i18n="nav.tool">Cleaner</a><a href="/puliora/files/" data-i18n="nav.files" data-nav="files">Files & batch</a><a href="/puliora/how-it-works/" data-i18n="nav.how">How it works</a><a href="/puliora/developers/" data-i18n="nav.dev">Developers</a><a href="/puliora/pricing/" data-i18n="nav.pricing">Pricing</a></nav>
+<div class="hdr-controls" id="hdr-controls"><button type="button" class="btn btn-icon nav-toggle" id="nav-toggle" aria-controls="site-nav" aria-expanded="false" aria-label="Menu"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button></div>
+</div></header>
+<main id="main" class="wrap">
+<p class="crumbs"><a href="/puliora/">Puliora</a> › ChatGPT watermark remover</p>
+<section class="hero"><h1>ChatGPT watermark remover: what it can and can't remove</h1><p class="lead">Short answer: Puliora removes hidden characters and unusual spaces from AI text. It cannot remove statistical watermarks, and no character cleaner can. Here is the difference.</p><ul class="badges"><li data-i18n="badge.local">Runs locally</li><li data-i18n="badge.noupload">Nothing uploaded</li><li data-i18n="badge.noaccount">No account</li><li data-i18n="badge.free">Free</li></ul></section>
+<div id="tool" data-sample="default"><noscript><p class="callout">The cleaner needs JavaScript. Everything runs locally in your browser.</p></noscript></div>
+
+<section class="content prose">
+
+<h2>Two very different things called “watermark”</h2>
+<p><strong>Characters in the text.</strong> Invisible or unusual characters — zero-width spaces, narrow no-break spaces, tag characters — can end up in text copied from a chatbot, a website or a document. They are real characters, so they can be found and removed. That is what Puliora does, with an exact list of every change.</p>
+<p><strong>Statistical watermarks.</strong> Some providers make their model prefer certain words according to a secret key. The result looks like ordinary text: there is no hidden character to find. A detector with the key recognises the statistical pattern. Google documents this approach for SynthID Text; Anthropic published how Claude's text watermark works in August 2026 (it states that nothing is added to the text and there are no hidden characters); OpenAI announced a statistical text provenance signal for EU rules in October 2026.</p>
+<h2>What Puliora removes</h2>
+<ul>
+<li>Narrow no-break spaces (U+202F) and no-break spaces between words — replaced with normal spaces, never deleted, so words stay separated (<a href="/puliora/non-breaking-space-remover/">details</a>).</li>
+<li>Zero-width spaces, joiners outside emoji and scripts that need them, word joiners, stray BOMs (<a href="/puliora/zero-width-space-remover/">details</a>).</li>
+<li>Hidden text in tag characters and data hidden in variation selectors (<a href="/puliora/invisible-text-detector/">details</a>).</li>
+<li>Non-breaking hyphens that break search (“well‑known”), control characters, direction overrides.</li>
+<li>Optionally, typography such as em dashes and curly quotes (<a href="/puliora/em-dash-remover/">em dash remover</a>).</li>
+</ul>
+<h2>What nobody can remove with a cleaner</h2>
+<p>A statistical watermark is spread across the word choices of the whole text. The only known ways to weaken it change the text itself — heavy rewriting, paraphrasing or, for some schemes, translation — which also changes what the author wrote. Puliora does not rewrite text and does not promise “undetectable” output. Be wary of tools that do: they usually measure themselves against generic AI detectors, not against the provider's watermark detector.</p>
+<h2>The U+202F story</h2>
+<p>In April 2025 a company reported that new OpenAI reasoning models put narrow no-break spaces (U+202F) in long answers. Reports at the time quoted OpenAI as saying this was not an intentional watermark but a quirk of training; similar reports about other models appeared later on the OpenAI developer forum. Whatever the cause, U+202F is a legitimate typographic character that looks like a space but is not one, so it breaks search, diffs and code. Puliora replaces it with a normal space, except where typography uses it on purpose (for example 10&#x202F;000 or French punctuation in Safe mode).</p>
+<h2>Claude and Gemini text</h2>
+<p>The same logic applies to text from any assistant: Puliora finds the characters that are actually there. It does not identify which model wrote a text.</p>
+<h2>Why we don't offer rewriting</h2>
+<p>Rewriting changes meaning and authorship, and selling it as “watermark removal” misleads people. Puliora is built for clean, correct text: interoperability, search, code, documents.</p>
+<h2>Frequently asked questions</h2><details class="faq"><summary>Is U+202F a ChatGPT watermark?</summary><p>There is no evidence that it is an intentional watermark. Press reports from 2025 quote OpenAI describing it as an unintended side effect. It is still worth removing, because it breaks search and comparisons.</p></details><details class="faq"><summary>Can any tool remove OpenAI's or Claude's statistical watermark?</summary><p>Not without changing the words. A statistical watermark is a pattern in word choices, not a character. Only substantial rewriting weakens it, and that changes the text.</p></details><details class="faq"><summary>Will this make my text undetectable?</summary><p>No, and we do not claim it. Removing characters does not change the words that detectors and watermark checkers analyse.</p></details><details class="faq"><summary>Does Claude add hidden characters?</summary><p>According to Anthropic's own description of its text watermark, no: nothing is added to the text. Puliora will still show any unusual character that is present for other reasons.</p></details><details class="faq"><summary>Is it free?</summary><p>Yes. Cleaning text is free, up to 20 MB of text at a time, and runs on your device.</p></details>
+</section>
+</main>
+<footer class="site-footer"><div class="wrap">
+<div class="cols"><nav aria-label="Tools"><a href="/puliora/">Invisible character remover</a><a href="/puliora/chatgpt-watermark-remover/">ChatGPT watermark remover</a><a href="/puliora/zero-width-space-remover/">Zero-width space remover</a><a href="/puliora/non-breaking-space-remover/">Non-breaking space remover</a><a href="/puliora/em-dash-remover/">Em dash remover</a><a href="/puliora/invisible-text-detector/">Invisible text detector</a><a href="/puliora/homoglyph-detector/">Homoglyph detector</a><a href="/puliora/pdf-text-fixer/">PDF text fixer</a><a href="/puliora/unicode-inspector/">Unicode inspector</a><a href="/puliora/files/">Files & batch</a></nav>
+<nav aria-label="About"><a href="/puliora/how-it-works/">How it works</a><a href="/puliora/developers/">Developers</a><a href="/puliora/pricing/">Pricing</a><a href="/puliora/privacy/">Privacy</a><a href="/puliora/terms/">Terms</a><a href="mailto:appvitastudio@proton.me">appvitastudio@proton.me</a></nav></div>
+<p><span data-i18n="footer.local">This page cannot send your text anywhere: network requests are blocked by its Content Security Policy.</span></p>
+<p><span data-i18n="footer.studio">Puliora is made by AppVita Studio.</span> · <span id="unicode-version">Unicode data 18.0.0 (© Unicode, Inc.)</span></p>
+</div></footer>
+</body>
+</html>
