@@ -1,9 +1,9 @@
-# Privacy Policy — Meme Sound Duel: Voice Battle
+# Privacy Policy - Meme Sound Duel: Voice Battle
 
-*Developer: AppVita Studio · Last updated: 2026-11-12*
+*Developer: AppVita Studio - Last updated: 2026-11-12*
 
 ## Microphone and voice
-The game uses the microphone **only** while a red "REC — microphone ON" badge is visible, after you press RECORD in a
+The game uses the microphone **only** while a red "REC - microphone ON" badge is visible, after you press RECORD in a
 voice challenge. The sound is analysed **on your device** to compute a similarity score (rhythm, melody, duration,
 loudness shape). Recordings are **not uploaded**, not sent to us or to any third party, not used for speech recognition
 and not used to identify you. No voice profile is created.
@@ -16,13 +16,13 @@ You can play without the microphone (No Mic Party) and refuse or revoke the perm
 
 ## Data stored on your device
 Settings, player names you type, avatar, statistics, records, campaign progress and audio-latency calibration are stored
-locally on your device only. You can erase them in Settings → Delete all local data, or by uninstalling the app.
+locally on your device only. You can erase them in Settings -> Delete all local data, or by uninstalling the app.
 
 ## Advertising (Google AdMob)
 The free version shows ads through Google AdMob. Google may collect and process device identifiers (such as the
 advertising ID), IP address, approximate location derived from it, and ad-interaction data to deliver, measure and, where
 you consent, personalize ads. Where required (e.g. EEA/UK), you are asked for consent through Google's consent form and
-can change it later in Settings → Ad privacy options. See https://policies.google.com/technologies/partner-sites.
+can change it later in Settings -> Ad privacy options. See https://policies.google.com/technologies/partner-sites.
 AdMob never receives your recordings.
 
 ## Sharing
@@ -33,4 +33,4 @@ sheet; you choose where to send it.
 The game is not directed to children under 13.
 
 ## Contact
-AppVita Studio — via the developer contact e-mail shown on the Google Play listing.
+AppVita Studio - via the developer contact e-mail shown on the Google Play listing.
