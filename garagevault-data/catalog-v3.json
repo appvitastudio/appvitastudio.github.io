@@ -1,0 +1,4253 @@
+{
+ "schemaVersion": 1,
+ "catalogVersion": 3,
+ "updatedAt": "2026-11-26T12:00:00Z",
+ "game": "GTA VI",
+ "sources": [
+  {
+   "id": "rockstargames-ultimate-edition",
+   "title": "GTA VI add-ons: Ultimate Edition",
+   "url": "https://www.rockstargames.com/VI/add-ons/ultimate-edition",
+   "publisher": "Rockstar Games",
+   "type": "OFFICIAL",
+   "accessed": "2026-11-26"
+  },
+  {
+   "id": "kotaku-exclusive-vehicles-guns-and-more-heres-e",
+   "title": "Everything included in the GTA 6 Ultimate Edition",
+   "url": "https://kotaku.com/exclusive-vehicles-guns-and-more-heres-everything-included-in-the-grand-theft-auto-6-ultimate-edition-2000709941",
+   "publisher": "Kotaku",
+   "type": "EDITORIAL",
+   "accessed": "2026-11-26"
+  },
+  {
+   "id": "gematsu-grand-theft-auto-vi-pricing-ultimate-edi",
+   "title": "GTA VI pricing, Ultimate Edition and pre-order bonuses",
+   "url": "https://www.gematsu.com/2026/06/grand-theft-auto-vi-pricing-ultimate-edition-and-pre-order-bonuses-announced",
+   "publisher": "Gematsu",
+   "type": "EDITORIAL",
+   "accessed": "2026-11-26"
+  },
+  {
+   "id": "beebom-gta-6-vehicles-list",
+   "title": "GTA 6 vehicles list",
+   "url": "https://beebom.com/gta-6-vehicles-list/",
+   "publisher": "Beebom",
+   "type": "EDITORIAL",
+   "accessed": "2026-11-26"
+  },
+  {
+   "id": "dexerto-cars",
+   "title": "GTA 6 wiki: cars",
+   "url": "https://www.dexerto.com/wikis/gta-6/vehicles/cars/",
+   "publisher": "Dexerto",
+   "type": "EDITORIAL",
+   "accessed": "2026-11-26"
+  },
+  {
+   "id": "rockstargames-vintage-vice-city",
+   "title": "GTA VI add-ons: Vintage Vice City Pack",
+   "url": "https://www.rockstargames.com/VI/add-ons/vintage-vice-city",
+   "publisher": "Rockstar Games",
+   "type": "OFFICIAL",
+   "accessed": "2026-11-26"
+  },
+  {
+   "id": "jalopnik-gta-6-grand-theft-auto-vintage-vice-city",
+   "title": "The Vintage Vice City Pack classic car",
+   "url": "https://www.jalopnik.com/2322442/gta-6-grand-theft-auto-vintage-vice-city-pack-classic-car/",
+   "publisher": "Jalopnik",
+   "type": "EDITORIAL",
+   "accessed": "2026-11-26"
+  },
+  {
+   "id": "dexerto-vehicle-tier-lists",
+   "title": "GTA 6 wiki: vehicle tier lists",
+   "url": "https://www.dexerto.com/wikis/gta-6/vehicle-tier-lists/",
+   "publisher": "Dexerto",
+   "type": "EDITORIAL",
+   "accessed": "2026-11-26"
+  },
+  {
+   "id": "gfinityesports-gta-6-vehicles-guide-every-ride-confirme",
+   "title": "GTA 6 vehicles guide (pre-release)",
+   "url": "https://www.gfinityesports.com/article/gta-6-vehicles-guide-every-ride-confirmed-for-land-air-and-sea",
+   "publisher": "Gfinity Esports",
+   "type": "EDITORIAL",
+   "accessed": "2026-11-26"
+  },
+  {
+   "id": "gamerant-gta-6-new-returning-vehicles-boats-plane",
+   "title": "GTA 6 new and returning vehicles",
+   "url": "https://gamerant.com/gta-6-new-returning-vehicles-boats-planes-helicopters-cars/",
+   "publisher": "Game Rant",
+   "type": "EDITORIAL",
+   "accessed": "2026-11-26"
+  },
+  {
+   "id": "dexerto-vehicles",
+   "title": "GTA 6 wiki: vehicles",
+   "url": "https://www.dexerto.com/wikis/gta-6/vehicles/",
+   "publisher": "Dexerto",
+   "type": "EDITORIAL",
+   "accessed": "2026-11-26"
+  },
+  {
+   "id": "gamerant-gta-6-company-cars-best-vehicle-to-pick",
+   "title": "GTA 6 'Company Cars': which vehicle to pick",
+   "url": "https://gamerant.com/gta-6-company-cars-best-vehicle-to-pick/",
+   "publisher": "Game Rant",
+   "type": "EDITORIAL",
+   "accessed": "2026-11-26"
+  },
+  {
+   "id": "gamerant-gta-6-best-vehicle-location",
+   "title": "GTA 6 best vehicle location",
+   "url": "https://gamerant.com/gta-6-best-vehicle-location/",
+   "publisher": "Game Rant",
+   "type": "EDITORIAL",
+   "accessed": "2026-11-26"
+  },
+  {
+   "id": "gamerant-gta-6-fastest-car-truffade-thrax-locatio",
+   "title": "GTA 6 fastest car: Truffade Thrax locations",
+   "url": "https://gamerant.com/gta-6-fastest-car-truffade-thrax-locations-bugatti-veyron-grand-theft-auto-6/",
+   "publisher": "Game Rant",
+   "type": "EDITORIAL",
+   "accessed": "2026-11-26"
+  },
+  {
+   "id": "gamespot-dont-blink-these-are-the-fastest-cars-in",
+   "title": "The fastest cars in GTA 6",
+   "url": "https://www.gamespot.com/articles/dont-blink-these-are-the-fastest-cars-in-gta-6/",
+   "publisher": "GameSpot",
+   "type": "EDITORIAL",
+   "accessed": "2026-11-26"
+  },
+  {
+   "id": "jalopnik-gta-6-grand-theft-auto-paul-walker-fast-",
+   "title": "A tribute car in GTA 6",
+   "url": "https://www.jalopnik.com/2322396/gta-6-grand-theft-auto-paul-walker-fast-and-furious-toyota-supra-turbo-tribute/",
+   "publisher": "Jalopnik",
+   "type": "EDITORIAL",
+   "accessed": "2026-11-26"
+  },
+  {
+   "id": "gamespot-best-cars-to-get-early-in-gta-6",
+   "title": "Best cars to get early in GTA 6",
+   "url": "https://www.gamespot.com/articles/best-cars-to-get-early-in-gta-6/",
+   "publisher": "GameSpot",
+   "type": "EDITORIAL",
+   "accessed": "2026-11-26"
+  }
+ ],
+ "vehicles": [
+  {
+   "id": "bravado-buffalo-19",
+   "displayName": "'19 Bravado Buffalo",
+   "manufacturer": "Bravado",
+   "model": "Buffalo",
+   "category": "Sedans",
+   "bodyStyle": "SEDAN",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-cars",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Bravado Buffalo",
+    "Buffalo",
+    "Buffalo '19"
+   ],
+   "retired": false
+  },
+  {
+   "id": "vapid-hustler-32",
+   "displayName": "'32 Vapid Hustler",
+   "manufacturer": "Vapid",
+   "model": "Hustler",
+   "category": "Coupes",
+   "bodyStyle": "SEDAN",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Hustler",
+    "Hustler '32",
+    "Vapid Hustler"
+   ],
+   "retired": false
+  },
+  {
+   "id": "albany-hermes-50",
+   "displayName": "'50 Albany Hermes",
+   "manufacturer": "Albany",
+   "model": "Hermes",
+   "category": "Muscle",
+   "bodyStyle": "MUSCLE",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Albany Hermes",
+    "Hermes",
+    "Hermes '50"
+   ],
+   "retired": false
+  },
+  {
+   "id": "declasse-bobcat-500-55",
+   "displayName": "'55 Declasse Bobcat 500",
+   "manufacturer": "Declasse",
+   "model": "Bobcat 500",
+   "category": "Muscle",
+   "bodyStyle": "MUSCLE",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Bobcat 500",
+    "Bobcat 500 '55",
+    "Declasse Bobcat 500"
+   ],
+   "retired": false
+  },
+  {
+   "id": "vapid-stanier-55",
+   "displayName": "'55 Vapid Stanier",
+   "manufacturer": "Vapid",
+   "model": "Stanier",
+   "category": "Sedans",
+   "bodyStyle": "SEDAN",
+   "edition": "Vintage Vice City Pack (pre-order / launch bonus for either edition; sources disagree on the exact deadline, 19 or 20 Nov 2026).",
+   "acquisition": "Claimed in-game near the Ocean View Hotel; comes with the Shore Court personal garage.",
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_OFFICIAL",
+   "sourceIds": [
+    "rockstargames-vintage-vice-city",
+    "rockstargames-ultimate-edition",
+    "gematsu-grand-theft-auto-vi-pricing-ultimate-edi",
+    "jalopnik-gta-6-grand-theft-auto-vintage-vice-city"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Stanier",
+    "Stanier '55",
+    "Vapid Stanier"
+   ],
+   "retired": false
+  },
+  {
+   "id": "declasse-yosemite-67",
+   "displayName": "'67 Declasse Yosemite",
+   "manufacturer": "Declasse",
+   "model": "Yosemite",
+   "category": "Muscle",
+   "bodyStyle": "MUSCLE",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Declasse Yosemite",
+    "Yosemite",
+    "Yosemite '67"
+   ],
+   "retired": false
+  },
+  {
+   "id": "vapid-dominator-buggy-67",
+   "displayName": "'67 Vapid Dominator Buggy",
+   "manufacturer": "Vapid",
+   "model": "Dominator Buggy",
+   "category": "OffRoad",
+   "bodyStyle": "BUGGY",
+   "edition": "Ultimate Edition bonus.",
+   "acquisition": "Comes with the Paradise Garage in Watson Bay.",
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_OFFICIAL",
+   "sourceIds": [
+    "rockstargames-ultimate-edition",
+    "kotaku-exclusive-vehicles-guns-and-more-heres-e",
+    "gematsu-grand-theft-auto-vi-pricing-ultimate-edi",
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Dominator Buggy",
+    "Dominator Buggy '67",
+    "Vapid Dominator Buggy"
+   ],
+   "retired": false
+  },
+  {
+   "id": "vapid-ganado-70",
+   "displayName": "'70 Vapid Ganado",
+   "manufacturer": "Vapid",
+   "model": "Ganado",
+   "category": "Muscle",
+   "bodyStyle": "MUSCLE",
+   "edition": "Jason's car. The 'Ganado Retro Build' kit is an Ultimate Edition bonus.",
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_OFFICIAL",
+   "sourceIds": [
+    "rockstargames-ultimate-edition",
+    "kotaku-exclusive-vehicles-guns-and-more-heres-e",
+    "gematsu-grand-theft-auto-vi-pricing-ultimate-edi",
+    "dexerto-cars",
+    "gfinityesports-gta-6-vehicles-guide-every-ride-confirme"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Ganado",
+    "Ganado '70",
+    "Vapid Ganado"
+   ],
+   "retired": false
+  },
+  {
+   "id": "vapid-reclaimer-70",
+   "displayName": "'70 Vapid Reclaimer",
+   "manufacturer": "Vapid",
+   "model": "Reclaimer",
+   "category": "Other",
+   "bodyStyle": "OFFROAD",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": "Category = grouping used by the cited source, not necessarily the in-game class.",
+   "aliases": [
+    "Reclaimer",
+    "Reclaimer '70",
+    "Vapid Reclaimer"
+   ],
+   "retired": false
+  },
+  {
+   "id": "declasse-picador-72",
+   "displayName": "'72 Declasse Picador",
+   "manufacturer": "Declasse",
+   "model": "Picador",
+   "category": "Muscle",
+   "bodyStyle": "MUSCLE",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Declasse Picador",
+    "Picador",
+    "Picador '72"
+   ],
+   "retired": false
+  },
+  {
+   "id": "declasse-tulip-72",
+   "displayName": "'72 Declasse Tulip",
+   "manufacturer": "Declasse",
+   "model": "Tulip",
+   "category": "Muscle",
+   "bodyStyle": "MUSCLE",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-cars",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Declasse Tulip",
+    "Tulip",
+    "Tulip '72"
+   ],
+   "retired": false
+  },
+  {
+   "id": "dinka-enduro-72",
+   "displayName": "'72 Dinka Enduro",
+   "manufacturer": "Dinka",
+   "model": "Enduro",
+   "category": "Motorcycles",
+   "bodyStyle": "MOTO",
+   "edition": "Ultimate Edition bonus.",
+   "acquisition": "At Jason's safehouse.",
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-vehicle-tier-lists",
+    "kotaku-exclusive-vehicles-guns-and-more-heres-e",
+    "gematsu-grand-theft-auto-vi-pricing-ultimate-edi",
+    "rockstargames-ultimate-edition"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Dinka Enduro",
+    "Enduro",
+    "Enduro '72"
+   ],
+   "retired": false
+  },
+  {
+   "id": "western-cliffhanger-72",
+   "displayName": "'72 Western Cliffhanger",
+   "manufacturer": "Western",
+   "model": "Cliffhanger",
+   "category": "Motorcycles",
+   "bodyStyle": "MOTO",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-vehicle-tier-lists"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Cliffhanger",
+    "Cliffhanger '72",
+    "Western Cliffhanger"
+   ],
+   "retired": false
+  },
+  {
+   "id": "bravado-youga-74",
+   "displayName": "'74 Bravado Youga",
+   "manufacturer": "Bravado",
+   "model": "Youga",
+   "category": "Vans",
+   "bodyStyle": "VAN",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-cars",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Bravado Youga",
+    "Youga",
+    "Youga '74"
+   ],
+   "retired": false
+  },
+  {
+   "id": "declasse-vamos-74",
+   "displayName": "'74 Declasse Vamos",
+   "manufacturer": "Declasse",
+   "model": "Vamos",
+   "category": "Muscle",
+   "bodyStyle": "MUSCLE",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-cars",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Declasse Vamos",
+    "Vamos",
+    "Vamos '74"
+   ],
+   "retired": false
+  },
+  {
+   "id": "imponte-phoenix-77",
+   "displayName": "'77 Imponte Phoenix",
+   "manufacturer": "Imponte",
+   "model": "Phoenix",
+   "category": "Muscle",
+   "bodyStyle": "MUSCLE",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-cars",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Imponte Phoenix",
+    "Phoenix",
+    "Phoenix '77"
+   ],
+   "retired": false
+  },
+  {
+   "id": "declasse-tulip-m-100-78",
+   "displayName": "'78 Declasse Tulip M-100",
+   "manufacturer": "Declasse",
+   "model": "Tulip M-100",
+   "category": "Muscle",
+   "bodyStyle": "MUSCLE",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-cars",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Declasse Tulip M-100",
+    "Tulip M-100",
+    "Tulip M-100 '78"
+   ],
+   "retired": false
+  },
+  {
+   "id": "osprey-journey-78",
+   "displayName": "'78 Osprey Journey",
+   "manufacturer": "Osprey",
+   "model": "Journey",
+   "category": "Vans",
+   "bodyStyle": "VAN",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Journey",
+    "Journey '78",
+    "Osprey Journey"
+   ],
+   "retired": false
+  },
+  {
+   "id": "declasse-walton-81",
+   "displayName": "'81 Declasse Walton",
+   "manufacturer": "Declasse",
+   "model": "Walton",
+   "category": "Other",
+   "bodyStyle": "OFFROAD",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": "Category = grouping used by the cited source, not necessarily the in-game class.",
+   "aliases": [
+    "Declasse Walton",
+    "Walton",
+    "Walton '81"
+   ],
+   "retired": false
+  },
+  {
+   "id": "jobuilt-phantom-custom-81",
+   "displayName": "'81 Jobuilt Phantom Custom",
+   "manufacturer": "Jobuilt",
+   "model": "Phantom Custom",
+   "category": "Industrial",
+   "bodyStyle": "TRUCK",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-vehicles"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": "Category = grouping used by the cited source, not necessarily the in-game class.",
+   "aliases": [
+    "Jobuilt Phantom Custom",
+    "Phantom Custom",
+    "Phantom Custom '81"
+   ],
+   "retired": false
+  },
+  {
+   "id": "canis-crawler-82",
+   "displayName": "'82 Canis Crawler",
+   "manufacturer": "Canis",
+   "model": "Crawler",
+   "category": "SUVs",
+   "bodyStyle": "SUV",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Canis Crawler",
+    "Crawler",
+    "Crawler '82"
+   ],
+   "retired": false
+  },
+  {
+   "id": "imponte-ruiner-82",
+   "displayName": "'82 Imponte Ruiner",
+   "manufacturer": "Imponte",
+   "model": "Ruiner",
+   "category": "Coupes",
+   "bodyStyle": "SEDAN",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-cars",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Imponte Ruiner",
+    "Ruiner",
+    "Ruiner '82"
+   ],
+   "retired": false
+  },
+  {
+   "id": "willard-moocher-83",
+   "displayName": "'83 Willard Moocher",
+   "manufacturer": "Willard",
+   "model": "Moocher",
+   "category": "Vans",
+   "bodyStyle": "VAN",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Moocher",
+    "Moocher '83",
+    "Willard Moocher"
+   ],
+   "retired": false
+  },
+  {
+   "id": "declasse-bobcat-xl-84",
+   "displayName": "'84 Declasse Bobcat XL",
+   "manufacturer": "Declasse",
+   "model": "Bobcat XL",
+   "category": "Other",
+   "bodyStyle": "OFFROAD",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": "Category = grouping used by the cited source, not necessarily the in-game class.",
+   "aliases": [
+    "Bobcat XL",
+    "Bobcat XL '84",
+    "Declasse Bobcat XL"
+   ],
+   "retired": false
+  },
+  {
+   "id": "karin-rebel-84",
+   "displayName": "'84 Karin Rebel",
+   "manufacturer": "Karin",
+   "model": "Rebel",
+   "category": "Other",
+   "bodyStyle": "OFFROAD",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-cars",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": "Category = grouping used by the cited source, not necessarily the in-game class.",
+   "aliases": [
+    "Karin Rebel",
+    "Rebel",
+    "Rebel '84"
+   ],
+   "retired": false
+  },
+  {
+   "id": "albany-emperor-85",
+   "displayName": "'85 Albany Emperor",
+   "manufacturer": "Albany",
+   "model": "Emperor",
+   "category": "Sedans",
+   "bodyStyle": "SEDAN",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-cars",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Albany Emperor",
+    "Emperor",
+    "Emperor '85"
+   ],
+   "retired": false
+  },
+  {
+   "id": "dinka-blista-85",
+   "displayName": "'85 Dinka Blista",
+   "manufacturer": "Dinka",
+   "model": "Blista",
+   "category": "Coupes",
+   "bodyStyle": "SEDAN",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Blista",
+    "Blista '85",
+    "Dinka Blista"
+   ],
+   "retired": false
+  },
+  {
+   "id": "karin-futo-85",
+   "displayName": "'85 Karin Futo",
+   "manufacturer": "Karin",
+   "model": "Futo",
+   "category": "Coupes",
+   "bodyStyle": "SEDAN",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-cars",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Futo",
+    "Futo '85",
+    "Karin Futo"
+   ],
+   "retired": false
+  },
+  {
+   "id": "declasse-rancher-86",
+   "displayName": "'86 Declasse Rancher",
+   "manufacturer": "Declasse",
+   "model": "Rancher",
+   "category": "Other",
+   "bodyStyle": "OFFROAD",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-cars",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": "Category = grouping used by the cited source, not necessarily the in-game class.",
+   "aliases": [
+    "Declasse Rancher",
+    "Rancher",
+    "Rancher '86"
+   ],
+   "retired": false
+  },
+  {
+   "id": "annis-elegy-90",
+   "displayName": "'90 Annis Elegy",
+   "manufacturer": "Annis",
+   "model": "Elegy",
+   "category": "Coupes",
+   "bodyStyle": "SEDAN",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Annis Elegy",
+    "Elegy",
+    "Elegy '90"
+   ],
+   "retired": false
+  },
+  {
+   "id": "willard-lasso-90",
+   "displayName": "'90 Willard Lasso",
+   "manufacturer": "Willard",
+   "model": "Lasso",
+   "category": "Coupes",
+   "bodyStyle": "SEDAN",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Lasso",
+    "Lasso '90",
+    "Willard Lasso"
+   ],
+   "retired": false
+  },
+  {
+   "id": "willard-grouse-92",
+   "displayName": "'92 Willard Grouse",
+   "manufacturer": "Willard",
+   "model": "Grouse",
+   "category": "Sedans",
+   "bodyStyle": "SEDAN",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Grouse",
+    "Grouse '92",
+    "Willard Grouse"
+   ],
+   "retired": false
+  },
+  {
+   "id": "dundreary-arcturus-93",
+   "displayName": "'93 Dundreary Arcturus",
+   "manufacturer": "Dundreary",
+   "model": "Arcturus",
+   "category": "Coupes",
+   "bodyStyle": "SEDAN",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Arcturus",
+    "Arcturus '93",
+    "Dundreary Arcturus"
+   ],
+   "retired": false
+  },
+  {
+   "id": "annis-hellion-95",
+   "displayName": "'95 Annis Hellion",
+   "manufacturer": "Annis",
+   "model": "Hellion",
+   "category": "SUVs",
+   "bodyStyle": "SUV",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Annis Hellion",
+    "Hellion",
+    "Hellion '95"
+   ],
+   "retired": false
+  },
+  {
+   "id": "bravado-bison-900-95",
+   "displayName": "'95 Bravado Bison 900",
+   "manufacturer": "Bravado",
+   "model": "Bison 900",
+   "category": "Other",
+   "bodyStyle": "OFFROAD",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": "Category = grouping used by the cited source, not necessarily the in-game class.",
+   "aliases": [
+    "Bison 900",
+    "Bison 900 '95",
+    "Bravado Bison 900"
+   ],
+   "retired": false
+  },
+  {
+   "id": "declasse-impaler-sz-95",
+   "displayName": "'95 Declasse Impaler SZ",
+   "manufacturer": "Declasse",
+   "model": "Impaler SZ",
+   "category": "Sedans",
+   "bodyStyle": "SEDAN",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-cars",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Declasse Impaler SZ",
+    "Impaler SZ",
+    "Impaler SZ '95"
+   ],
+   "retired": false
+  },
+  {
+   "id": "grotti-cheetah-95",
+   "displayName": "'95 Grotti Cheetah",
+   "manufacturer": "Grotti",
+   "model": "Cheetah",
+   "category": "SportsClassics",
+   "bodyStyle": "CLASSIC",
+   "edition": "Ultimate Edition bonus (also via the Ultimate Edition upgrade).",
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_OFFICIAL",
+   "sourceIds": [
+    "rockstargames-ultimate-edition",
+    "kotaku-exclusive-vehicles-guns-and-more-heres-e",
+    "gematsu-grand-theft-auto-vi-pricing-ultimate-edi",
+    "beebom-gta-6-vehicles-list"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": "Category = grouping used by the cited source, not necessarily the in-game class.",
+   "aliases": [
+    "Cheetah",
+    "Cheetah '95",
+    "Grotti Cheetah"
+   ],
+   "retired": false
+  },
+  {
+   "id": "maibatsu-penumbra-ff-97",
+   "displayName": "'97 Maibatsu Penumbra FF",
+   "manufacturer": "Maibatsu",
+   "model": "Penumbra FF",
+   "category": "Coupes",
+   "bodyStyle": "SEDAN",
+   "edition": null,
+   "acquisition": "Reported in a villa garage on Vespucci Island (single source, unverified).",
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "jalopnik-gta-6-grand-theft-auto-paul-walker-fast-",
+    "gamespot-best-cars-to-get-early-in-gta-6"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": "Category = grouping used by the cited source, not necessarily the in-game class.",
+   "aliases": [
+    "Maibatsu Penumbra FF",
+    "Penumbra FF",
+    "Penumbra FF '97"
+   ],
+   "retired": false
+  },
+  {
+   "id": "declasse-burrito-98",
+   "displayName": "'98 Declasse Burrito",
+   "manufacturer": "Declasse",
+   "model": "Burrito",
+   "category": "Vans",
+   "bodyStyle": "VAN",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-cars",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Burrito",
+    "Burrito '98",
+    "Declasse Burrito"
+   ],
+   "retired": false
+  },
+  {
+   "id": "karin-feroci-98",
+   "displayName": "'98 Karin Feroci",
+   "manufacturer": "Karin",
+   "model": "Feroci",
+   "category": "Sedans",
+   "bodyStyle": "SEDAN",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Feroci",
+    "Feroci '98",
+    "Karin Feroci"
+   ],
+   "retired": false
+  },
+  {
+   "id": "vapid-stanier-98",
+   "displayName": "'98 Vapid Stanier",
+   "manufacturer": "Vapid",
+   "model": "Stanier",
+   "category": "Sedans",
+   "bodyStyle": "SEDAN",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-cars",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Stanier",
+    "Stanier '98",
+    "Vapid Stanier"
+   ],
+   "retired": false
+  },
+  {
+   "id": "airgator-airboat-09",
+   "displayName": "Airgator Airboat 09",
+   "manufacturer": "Airgator",
+   "model": "Airboat 09",
+   "category": "Boats",
+   "bodyStyle": "BOAT",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-vehicle-tier-lists",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Airboat 09",
+    "Airgator Airboat 09"
+   ],
+   "retired": false
+  },
+  {
+   "id": "albany-cavalcade-xl",
+   "displayName": "Albany Cavalcade XL",
+   "manufacturer": "Albany",
+   "model": "Cavalcade XL",
+   "category": "SUVs",
+   "bodyStyle": "SUV",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Albany Cavalcade XL",
+    "Cavalcade XL"
+   ],
+   "retired": false
+  },
+  {
+   "id": "albany-primo",
+   "displayName": "Albany Primo",
+   "manufacturer": "Albany",
+   "model": "Primo",
+   "category": "Sedans",
+   "bodyStyle": "SEDAN",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-cars",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Albany Primo",
+    "Primo"
+   ],
+   "retired": false
+  },
+  {
+   "id": "albany-v-str",
+   "displayName": "Albany V-STR",
+   "manufacturer": "Albany",
+   "model": "V-STR",
+   "category": "Sedans",
+   "bodyStyle": "SEDAN",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Albany V-STR",
+    "V-STR"
+   ],
+   "retired": false
+  },
+  {
+   "id": "benefactor-dubsta",
+   "displayName": "Benefactor Dubsta",
+   "manufacturer": "Benefactor",
+   "model": "Dubsta",
+   "category": "SUVs",
+   "bodyStyle": "SUV",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-cars",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Benefactor Dubsta",
+    "Dubsta"
+   ],
+   "retired": false
+  },
+  {
+   "id": "benefactor-schafter-v12",
+   "displayName": "Benefactor Schafter V12",
+   "manufacturer": "Benefactor",
+   "model": "Schafter V12",
+   "category": "Sports",
+   "bodyStyle": "SPORTS",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-cars",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Benefactor Schafter V12",
+    "Schafter V12"
+   ],
+   "retired": false
+  },
+  {
+   "id": "benefactor-schutzen",
+   "displayName": "Benefactor Schutzen",
+   "manufacturer": "Benefactor",
+   "model": "Schutzen",
+   "category": "Coupes",
+   "bodyStyle": "SEDAN",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Benefactor Schutzen",
+    "Schutzen"
+   ],
+   "retired": false
+  },
+  {
+   "id": "benefactor-xls",
+   "displayName": "Benefactor XLS",
+   "manufacturer": "Benefactor",
+   "model": "XLS",
+   "category": "SUVs",
+   "bodyStyle": "SUV",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Benefactor XLS",
+    "XLS"
+   ],
+   "retired": false
+  },
+  {
+   "id": "bottcher-duster",
+   "displayName": "Bottcher Duster",
+   "manufacturer": "Bottcher",
+   "model": "Duster",
+   "category": "Aircraft",
+   "bodyStyle": "PLANE",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-vehicle-tier-lists"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Bottcher Duster",
+    "Duster"
+   ],
+   "retired": false
+  },
+  {
+   "id": "bravado-banshee",
+   "displayName": "Bravado Banshee",
+   "manufacturer": "Bravado",
+   "model": "Banshee",
+   "category": "Sports",
+   "bodyStyle": "SPORTS",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-cars",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Banshee",
+    "Bravado Banshee"
+   ],
+   "retired": false
+  },
+  {
+   "id": "bravado-bison",
+   "displayName": "Bravado Bison",
+   "manufacturer": "Bravado",
+   "model": "Bison",
+   "category": "Other",
+   "bodyStyle": "OFFROAD",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-cars",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": "Category = grouping used by the cited source, not necessarily the in-game class.",
+   "aliases": [
+    "Bison",
+    "Bravado Bison"
+   ],
+   "retired": false
+  },
+  {
+   "id": "bravado-bison-1800",
+   "displayName": "Bravado Bison 1800",
+   "manufacturer": "Bravado",
+   "model": "Bison 1800",
+   "category": "Other",
+   "bodyStyle": "OFFROAD",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": "Category = grouping used by the cited source, not necessarily the in-game class.",
+   "aliases": [
+    "Bison 1800",
+    "Bravado Bison 1800"
+   ],
+   "retired": false
+  },
+  {
+   "id": "bravado-gauntlet-hellfire",
+   "displayName": "Bravado Gauntlet Hellfire",
+   "manufacturer": "Bravado",
+   "model": "Gauntlet Hellfire",
+   "category": "Muscle",
+   "bodyStyle": "MUSCLE",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-cars",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Bravado Gauntlet Hellfire",
+    "Gauntlet Hellfire"
+   ],
+   "retired": false
+  },
+  {
+   "id": "bravado-swamp-blaster",
+   "displayName": "Bravado Swamp Blaster",
+   "manufacturer": "Bravado",
+   "model": "Swamp Blaster",
+   "category": "OffRoad",
+   "bodyStyle": "OFFROAD",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Bravado Swamp Blaster",
+    "Swamp Blaster"
+   ],
+   "retired": false
+  },
+  {
+   "id": "brute-boxville",
+   "displayName": "Brute Boxville",
+   "manufacturer": "Brute",
+   "model": "Boxville",
+   "category": "Vans",
+   "bodyStyle": "VAN",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-cars",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Boxville",
+    "Brute Boxville"
+   ],
+   "retired": false
+  },
+  {
+   "id": "brute-police-riot",
+   "displayName": "Brute Police Riot",
+   "manufacturer": "Brute",
+   "model": "Police Riot",
+   "category": "Emergency",
+   "bodyStyle": "VAN",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-vehicles",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Brute Police Riot",
+    "Police Riot"
+   ],
+   "retired": false
+  },
+  {
+   "id": "buckingham-jubilee",
+   "displayName": "Buckingham Jubilee",
+   "manufacturer": "Buckingham",
+   "model": "Jubilee",
+   "category": "SUVs",
+   "bodyStyle": "SUV",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Buckingham Jubilee",
+    "Jubilee"
+   ],
+   "retired": false
+  },
+  {
+   "id": "buckingham-maverick",
+   "displayName": "Buckingham Maverick",
+   "manufacturer": "Buckingham",
+   "model": "Maverick",
+   "category": "Aircraft",
+   "bodyStyle": "HELI",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-vehicle-tier-lists",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Buckingham Maverick",
+    "Maverick"
+   ],
+   "retired": false
+  },
+  {
+   "id": "buckingham-valkyrie",
+   "displayName": "Buckingham Valkyrie",
+   "manufacturer": "Buckingham",
+   "model": "Valkyrie",
+   "category": "Other",
+   "bodyStyle": "HELI",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-vehicles"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": "Category = grouping used by the cited source, not necessarily the in-game class.",
+   "aliases": [
+    "Buckingham Valkyrie",
+    "Valkyrie"
+   ],
+   "retired": false
+  },
+  {
+   "id": "buckingham-volatus",
+   "displayName": "Buckingham Volatus",
+   "manufacturer": "Buckingham",
+   "model": "Volatus",
+   "category": "Aircraft",
+   "bodyStyle": "HELI",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-vehicle-tier-lists"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Buckingham Volatus",
+    "Volatus"
+   ],
+   "retired": false
+  },
+  {
+   "id": "buckingham-windsor-drop",
+   "displayName": "Buckingham Windsor Drop",
+   "manufacturer": "Buckingham",
+   "model": "Windsor Drop",
+   "category": "Coupes",
+   "bodyStyle": "SEDAN",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Buckingham Windsor Drop",
+    "Windsor Drop"
+   ],
+   "retired": false
+  },
+  {
+   "id": "calder-marquis",
+   "displayName": "Calder Marquis",
+   "manufacturer": "Calder",
+   "model": "Marquis",
+   "category": "Boats",
+   "bodyStyle": "BOAT",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-vehicle-tier-lists"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Calder Marquis",
+    "Marquis"
+   ],
+   "retired": false
+  },
+  {
+   "id": "canis-kamacho",
+   "displayName": "Canis Kamacho",
+   "manufacturer": "Canis",
+   "model": "Kamacho",
+   "category": "SUVs",
+   "bodyStyle": "SUV",
+   "edition": null,
+   "acquisition": "One of the choices in the Chapter 4 'Company Cars' mission.",
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-cars",
+    "gamerant-gta-6-company-cars-best-vehicle-to-pick"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Canis Kamacho",
+    "Kamacho"
+   ],
+   "retired": false
+  },
+  {
+   "id": "canis-mesa",
+   "displayName": "Canis Mesa",
+   "manufacturer": "Canis",
+   "model": "Mesa",
+   "category": "SUVs",
+   "bodyStyle": "SUV",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-cars",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Canis Mesa",
+    "Mesa"
+   ],
+   "retired": false
+  },
+  {
+   "id": "clarion",
+   "displayName": "Clarion",
+   "manufacturer": null,
+   "model": "Clarion",
+   "category": "Boats",
+   "bodyStyle": "BOAT",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-vehicle-tier-lists",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Clarion"
+   ],
+   "retired": false
+  },
+  {
+   "id": "coil-raiden",
+   "displayName": "Coil Raiden",
+   "manufacturer": "Coil",
+   "model": "Raiden",
+   "category": "Sedans",
+   "bodyStyle": "SEDAN",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Coil Raiden",
+    "Raiden"
+   ],
+   "retired": false
+  },
+  {
+   "id": "crest-kayak",
+   "displayName": "Crest Kayak",
+   "manufacturer": "Crest",
+   "model": "Kayak",
+   "category": "Boats",
+   "bodyStyle": "BOAT",
+   "edition": "Ultimate Edition bonus.",
+   "acquisition": "At Jason's safehouse.",
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-vehicle-tier-lists",
+    "kotaku-exclusive-vehicles-guns-and-more-heres-e",
+    "gematsu-grand-theft-auto-vi-pricing-ultimate-edi",
+    "rockstargames-ultimate-edition"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Crest Kayak",
+    "Kayak"
+   ],
+   "retired": false
+  },
+  {
+   "id": "declasse-akane",
+   "displayName": "Declasse Akane",
+   "manufacturer": "Declasse",
+   "model": "Akane",
+   "category": "Coupes",
+   "bodyStyle": "SEDAN",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Akane",
+    "Declasse Akane"
+   ],
+   "retired": false
+  },
+  {
+   "id": "declasse-ambulance",
+   "displayName": "Declasse Ambulance",
+   "manufacturer": "Declasse",
+   "model": "Ambulance",
+   "category": "Emergency",
+   "bodyStyle": "VAN",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-vehicles"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Ambulance",
+    "Declasse Ambulance"
+   ],
+   "retired": false
+  },
+  {
+   "id": "declasse-granger-3600lx",
+   "displayName": "Declasse Granger 3600LX",
+   "manufacturer": "Declasse",
+   "model": "Granger 3600LX",
+   "category": "SUVs",
+   "bodyStyle": "SUV",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Declasse Granger 3600LX",
+    "Granger 3600LX"
+   ],
+   "retired": false
+  },
+  {
+   "id": "declasse-mamba-gt",
+   "displayName": "Declasse Mamba GT",
+   "manufacturer": "Declasse",
+   "model": "Mamba GT",
+   "category": "SportsClassics",
+   "bodyStyle": "CLASSIC",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "gamerant-gta-6-fastest-car-truffade-thrax-locatio",
+    "beebom-gta-6-vehicles-list"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": "Category = grouping used by the cited source, not necessarily the in-game class.",
+   "aliases": [
+    "Declasse Mamba GT",
+    "Mamba GT"
+   ],
+   "retired": false
+  },
+  {
+   "id": "declasse-vigero-zx-convertible",
+   "displayName": "Declasse Vigero ZX Convertible",
+   "manufacturer": "Declasse",
+   "model": "Vigero ZX Convertible",
+   "category": "Muscle",
+   "bodyStyle": "MUSCLE",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-cars",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Declasse Vigero ZX Convertible",
+    "Vigero ZX Convertible"
+   ],
+   "retired": false
+  },
+  {
+   "id": "declasse-yosemite-1500",
+   "displayName": "Declasse Yosemite 1500",
+   "manufacturer": "Declasse",
+   "model": "Yosemite 1500",
+   "category": "Other",
+   "bodyStyle": "OFFROAD",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-cars",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": "Category = grouping used by the cited source, not necessarily the in-game class.",
+   "aliases": [
+    "Declasse Yosemite 1500",
+    "Yosemite 1500"
+   ],
+   "retired": false
+  },
+  {
+   "id": "del-perro-erode",
+   "displayName": "Del Perro Erode",
+   "manufacturer": "Del Perro",
+   "model": "Erode",
+   "category": "Bicycles",
+   "bodyStyle": "BIKE",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-vehicle-tier-lists"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": "Category = grouping used by the cited source, not necessarily the in-game class.",
+   "aliases": [
+    "Del Perro Erode",
+    "Erode"
+   ],
+   "retired": false
+  },
+  {
+   "id": "del-perro-scorcher",
+   "displayName": "Del Perro Scorcher",
+   "manufacturer": "Del Perro",
+   "model": "Scorcher",
+   "category": "Bicycles",
+   "bodyStyle": "BIKE",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-vehicle-tier-lists"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": "Category = grouping used by the cited source, not necessarily the in-game class.",
+   "aliases": [
+    "Del Perro Scorcher",
+    "Scorcher"
+   ],
+   "retired": false
+  },
+  {
+   "id": "dinka-chavos-xs",
+   "displayName": "Dinka Chavos XS",
+   "manufacturer": "Dinka",
+   "model": "Chavos XS",
+   "category": "Sedans",
+   "bodyStyle": "SEDAN",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Chavos XS",
+    "Dinka Chavos XS"
+   ],
+   "retired": false
+  },
+  {
+   "id": "dinka-sugoi",
+   "displayName": "Dinka Sugoi",
+   "manufacturer": "Dinka",
+   "model": "Sugoi",
+   "category": "Sedans",
+   "bodyStyle": "SEDAN",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-cars",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Dinka Sugoi",
+    "Sugoi"
+   ],
+   "retired": false
+  },
+  {
+   "id": "dinka-verus",
+   "displayName": "Dinka Verus",
+   "manufacturer": "Dinka",
+   "model": "Verus",
+   "category": "Motorcycles",
+   "bodyStyle": "MOTO",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-vehicle-tier-lists",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Dinka Verus",
+    "Verus"
+   ],
+   "retired": false
+  },
+  {
+   "id": "dundreary-landstalker-xl",
+   "displayName": "Dundreary Landstalker XL",
+   "manufacturer": "Dundreary",
+   "model": "Landstalker XL",
+   "category": "SUVs",
+   "bodyStyle": "SUV",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-cars",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Dundreary Landstalker XL",
+    "Landstalker XL"
+   ],
+   "retired": false
+  },
+  {
+   "id": "emperor-sultan",
+   "displayName": "Emperor Sultan",
+   "manufacturer": "Emperor",
+   "model": "Sultan",
+   "category": "Sports",
+   "bodyStyle": "SPORTS",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Emperor Sultan",
+    "Sultan"
+   ],
+   "retired": false
+  },
+  {
+   "id": "emperor-vectre",
+   "displayName": "Emperor Vectre",
+   "manufacturer": "Emperor",
+   "model": "Vectre",
+   "category": "Coupes",
+   "bodyStyle": "SEDAN",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-cars",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Emperor Vectre",
+    "Vectre"
+   ],
+   "retired": false
+  },
+  {
+   "id": "fathom-fr36",
+   "displayName": "Fathom FR36",
+   "manufacturer": "Fathom",
+   "model": "FR36",
+   "category": "Coupes",
+   "bodyStyle": "SEDAN",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "FR36",
+    "Fathom FR36"
+   ],
+   "retired": false
+  },
+  {
+   "id": "gallivanter-baller-st-d",
+   "displayName": "Gallivanter Baller ST-D",
+   "manufacturer": "Gallivanter",
+   "model": "Baller ST-D",
+   "category": "SUVs",
+   "bodyStyle": "SUV",
+   "edition": null,
+   "acquisition": "One of the choices in the Chapter 4 'Company Cars' mission.",
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-cars",
+    "gamerant-gta-6-company-cars-best-vehicle-to-pick"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Baller ST-D",
+    "Gallivanter Baller ST-D"
+   ],
+   "retired": false
+  },
+  {
+   "id": "granforma-zorrusso",
+   "displayName": "Granforma Zorrusso",
+   "manufacturer": "Granforma",
+   "model": "Zorrusso",
+   "category": "Super",
+   "bodyStyle": "SUPER",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Granforma Zorrusso",
+    "Zorrusso"
+   ],
+   "retired": false
+  },
+  {
+   "id": "grotti-carbonizzare",
+   "displayName": "Grotti Carbonizzare",
+   "manufacturer": "Grotti",
+   "model": "Carbonizzare",
+   "category": "Sports",
+   "bodyStyle": "SPORTS",
+   "edition": null,
+   "acquisition": "One of the choices in the Chapter 4 'Company Cars' mission.",
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-cars",
+    "gamerant-gta-6-company-cars-best-vehicle-to-pick",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Carbonizzare",
+    "Grotti Carbonizzare"
+   ],
+   "retired": false
+  },
+  {
+   "id": "grotti-itali-rsx",
+   "displayName": "Grotti Itali RSX",
+   "manufacturer": "Grotti",
+   "model": "Itali RSX",
+   "category": "Super",
+   "bodyStyle": "SUPER",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Grotti Itali RSX",
+    "Itali RSX"
+   ],
+   "retired": false
+  },
+  {
+   "id": "hauners-cargobob",
+   "displayName": "Hauners Cargobob",
+   "manufacturer": "Hauners",
+   "model": "Cargobob",
+   "category": "Other",
+   "bodyStyle": "HELI",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-vehicles"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": "Category = grouping used by the cited source, not necessarily the in-game class.",
+   "aliases": [
+    "Cargobob",
+    "Hauners Cargobob"
+   ],
+   "retired": false
+  },
+  {
+   "id": "hauners-rhino-tank",
+   "displayName": "Hauners Rhino Tank",
+   "manufacturer": "Hauners",
+   "model": "Rhino Tank",
+   "category": "Other",
+   "bodyStyle": "TRUCK",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-vehicles"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": "Category = grouping used by the cited source, not necessarily the in-game class.",
+   "aliases": [
+    "Hauners Rhino Tank",
+    "Rhino Tank"
+   ],
+   "retired": false
+  },
+  {
+   "id": "hulls-seacab",
+   "displayName": "Hulls Seacab",
+   "manufacturer": "Hulls",
+   "model": "Seacab",
+   "category": "Service",
+   "bodyStyle": "VAN",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-vehicles"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": "Category = grouping used by the cited source, not necessarily the in-game class.",
+   "aliases": [
+    "Hulls Seacab",
+    "Seacab"
+   ],
+   "retired": false
+  },
+  {
+   "id": "hvy-bulldozer",
+   "displayName": "HVY Bulldozer",
+   "manufacturer": "HVY",
+   "model": "Bulldozer",
+   "category": "Industrial",
+   "bodyStyle": "TRUCK",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-vehicles"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Bulldozer",
+    "HVY Bulldozer"
+   ],
+   "retired": false
+  },
+  {
+   "id": "hvy-wastelander",
+   "displayName": "HVY Wastelander",
+   "manufacturer": "HVY",
+   "model": "Wastelander",
+   "category": "OffRoad",
+   "bodyStyle": "OFFROAD",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "HVY Wastelander",
+    "Wastelander"
+   ],
+   "retired": false
+  },
+  {
+   "id": "invetero-coquette",
+   "displayName": "Invetero Coquette",
+   "manufacturer": "Invetero",
+   "model": "Coquette",
+   "category": "Sports",
+   "bodyStyle": "SPORTS",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-cars",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Coquette",
+    "Invetero Coquette"
+   ],
+   "retired": false
+  },
+  {
+   "id": "invetero-coquette-d10",
+   "displayName": "Invetero Coquette D10",
+   "manufacturer": "Invetero",
+   "model": "Coquette D10",
+   "category": "Sports",
+   "bodyStyle": "SPORTS",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-cars",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Coquette D10",
+    "Invetero Coquette D10"
+   ],
+   "retired": false
+  },
+  {
+   "id": "jobuilt-rubble",
+   "displayName": "Jobuilt Rubble",
+   "manufacturer": "Jobuilt",
+   "model": "Rubble",
+   "category": "Industrial",
+   "bodyStyle": "TRUCK",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-vehicles",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": "Category = grouping used by the cited source, not necessarily the in-game class.",
+   "aliases": [
+    "Jobuilt Rubble",
+    "Rubble"
+   ],
+   "retired": false
+  },
+  {
+   "id": "karin-asterope-gz",
+   "displayName": "Karin Asterope GZ",
+   "manufacturer": "Karin",
+   "model": "Asterope GZ",
+   "category": "Sedans",
+   "bodyStyle": "SEDAN",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Asterope GZ",
+    "Karin Asterope GZ"
+   ],
+   "retired": false
+  },
+  {
+   "id": "karin-contender",
+   "displayName": "Karin Contender",
+   "manufacturer": "Karin",
+   "model": "Contender",
+   "category": "Other",
+   "bodyStyle": "OFFROAD",
+   "edition": null,
+   "acquisition": "Can spawn near Cottonmouth Lake; keeping it requires removing its tracker (single editorial source).",
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-cars",
+    "gamerant-gta-6-best-vehicle-location"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": "Category = grouping used by the cited source, not necessarily the in-game class.",
+   "aliases": [
+    "Contender",
+    "Karin Contender"
+   ],
+   "retired": false
+  },
+  {
+   "id": "karin-intruder",
+   "displayName": "Karin Intruder",
+   "manufacturer": "Karin",
+   "model": "Intruder",
+   "category": "Sedans",
+   "bodyStyle": "SEDAN",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-cars",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Intruder",
+    "Karin Intruder"
+   ],
+   "retired": false
+  },
+  {
+   "id": "karin-vivanite",
+   "displayName": "Karin Vivanite",
+   "manufacturer": "Karin",
+   "model": "Vivanite",
+   "category": "Vans",
+   "bodyStyle": "VAN",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Karin Vivanite",
+    "Vivanite"
+   ],
+   "retired": false
+  },
+  {
+   "id": "lapwing-mallard",
+   "displayName": "Lapwing Mallard",
+   "manufacturer": "Lapwing",
+   "model": "Mallard",
+   "category": "Aircraft",
+   "bodyStyle": "PLANE",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-vehicle-tier-lists"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Lapwing Mallard",
+    "Mallard"
+   ],
+   "retired": false
+  },
+  {
+   "id": "lapwing-mammatus",
+   "displayName": "Lapwing Mammatus",
+   "manufacturer": "Lapwing",
+   "model": "Mammatus",
+   "category": "Aircraft",
+   "bodyStyle": "PLANE",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-vehicle-tier-lists"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Lapwing Mammatus",
+    "Mammatus"
+   ],
+   "retired": false
+  },
+  {
+   "id": "lapwing-streamer-216-c",
+   "displayName": "Lapwing Streamer 216-C",
+   "manufacturer": "Lapwing",
+   "model": "Streamer 216-C",
+   "category": "Aircraft",
+   "bodyStyle": "PLANE",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-vehicle-tier-lists"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Lapwing Streamer 216-C",
+    "Streamer 216-C"
+   ],
+   "retired": false
+  },
+  {
+   "id": "lcc-avarus",
+   "displayName": "LCC Avarus",
+   "manufacturer": "LCC",
+   "model": "Avarus",
+   "category": "Motorcycles",
+   "bodyStyle": "MOTO",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-vehicle-tier-lists",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Avarus",
+    "LCC Avarus"
+   ],
+   "retired": false
+  },
+  {
+   "id": "lure-predator-l35p",
+   "displayName": "Lure Predator L35P",
+   "manufacturer": "Lure",
+   "model": "Predator L35P",
+   "category": "Boats",
+   "bodyStyle": "BOAT",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-vehicle-tier-lists"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Lure Predator L35P",
+    "Predator L35P"
+   ],
+   "retired": false
+  },
+  {
+   "id": "maibatsu-boomazoom",
+   "displayName": "Maibatsu Boomazoom",
+   "manufacturer": "Maibatsu",
+   "model": "Boomazoom",
+   "category": "Motorcycles",
+   "bodyStyle": "MOTO",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-vehicle-tier-lists"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Boomazoom",
+    "Maibatsu Boomazoom"
+   ],
+   "retired": false
+  },
+  {
+   "id": "maibatsu-caddy",
+   "displayName": "Maibatsu Caddy",
+   "manufacturer": "Maibatsu",
+   "model": "Caddy",
+   "category": "Utility",
+   "bodyStyle": "TRUCK",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-vehicles"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Caddy",
+    "Maibatsu Caddy"
+   ],
+   "retired": false
+  },
+  {
+   "id": "maibatsu-manchez",
+   "displayName": "Maibatsu Manchez",
+   "manufacturer": "Maibatsu",
+   "model": "Manchez",
+   "category": "Motorcycles",
+   "bodyStyle": "MOTO",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-vehicle-tier-lists",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Maibatsu Manchez",
+    "Manchez"
+   ],
+   "retired": false
+  },
+  {
+   "id": "maibatsu-mule",
+   "displayName": "Maibatsu Mule",
+   "manufacturer": "Maibatsu",
+   "model": "Mule",
+   "category": "Industrial",
+   "bodyStyle": "TRUCK",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-vehicles",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": "Category = grouping used by the cited source, not necessarily the in-game class.",
+   "aliases": [
+    "Maibatsu Mule",
+    "Mule"
+   ],
+   "retired": false
+  },
+  {
+   "id": "maibatsu-penumbra",
+   "displayName": "Maibatsu Penumbra",
+   "manufacturer": "Maibatsu",
+   "model": "Penumbra",
+   "category": "Coupes",
+   "bodyStyle": "SEDAN",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-cars",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Maibatsu Penumbra",
+    "Penumbra"
+   ],
+   "retired": false
+  },
+  {
+   "id": "maibatsu-sanchez",
+   "displayName": "Maibatsu Sanchez",
+   "manufacturer": "Maibatsu",
+   "model": "Sanchez",
+   "category": "Motorcycles",
+   "bodyStyle": "MOTO",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-vehicle-tier-lists",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Maibatsu Sanchez",
+    "Sanchez"
+   ],
+   "retired": false
+  },
+  {
+   "id": "mammoth-dodo",
+   "displayName": "Mammoth Dodo",
+   "manufacturer": "Mammoth",
+   "model": "Dodo",
+   "category": "Aircraft",
+   "bodyStyle": "PLANE",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-vehicle-tier-lists",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Dodo",
+    "Mammoth Dodo"
+   ],
+   "retired": false
+  },
+  {
+   "id": "mer-can-blast",
+   "displayName": "Mer-Can Blast",
+   "manufacturer": "Mer-Can",
+   "model": "Blast",
+   "category": "OffRoad",
+   "bodyStyle": "OFFROAD",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Blast",
+    "Mer-Can Blast"
+   ],
+   "retired": false
+  },
+  {
+   "id": "mer-can-outlaw",
+   "displayName": "Mer-Can Outlaw",
+   "manufacturer": "Mer-Can",
+   "model": "Outlaw",
+   "category": "OffRoad",
+   "bodyStyle": "OFFROAD",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Mer-Can Outlaw",
+    "Outlaw"
+   ],
+   "retired": false
+  },
+  {
+   "id": "mtl-packer",
+   "displayName": "MTL Packer",
+   "manufacturer": "MTL",
+   "model": "Packer",
+   "category": "Industrial",
+   "bodyStyle": "TRUCK",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-vehicles",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": "Category = grouping used by the cited source, not necessarily the in-game class.",
+   "aliases": [
+    "MTL Packer",
+    "Packer"
+   ],
+   "retired": false
+  },
+  {
+   "id": "mtl-pumper",
+   "displayName": "MTL Pumper",
+   "manufacturer": "MTL",
+   "model": "Pumper",
+   "category": "Emergency",
+   "bodyStyle": "VAN",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-vehicles"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "MTL Pumper",
+    "Pumper"
+   ],
+   "retired": false
+  },
+  {
+   "id": "nagasaki-carbon-rs",
+   "displayName": "Nagasaki Carbon RS",
+   "manufacturer": "Nagasaki",
+   "model": "Carbon RS",
+   "category": "Motorcycles",
+   "bodyStyle": "MOTO",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-vehicle-tier-lists",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Carbon RS",
+    "Nagasaki Carbon RS"
+   ],
+   "retired": false
+  },
+  {
+   "id": "nagasaki-sea-sparrow",
+   "displayName": "Nagasaki Sea Sparrow",
+   "manufacturer": "Nagasaki",
+   "model": "Sea Sparrow",
+   "category": "Aircraft",
+   "bodyStyle": "HELI",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-vehicle-tier-lists",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Nagasaki Sea Sparrow",
+    "Sea Sparrow"
+   ],
+   "retired": false
+  },
+  {
+   "id": "nagasaki-street-blazer",
+   "displayName": "Nagasaki Street Blazer",
+   "manufacturer": "Nagasaki",
+   "model": "Street Blazer",
+   "category": "Motorcycles",
+   "bodyStyle": "MOTO",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-vehicle-tier-lists"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Nagasaki Street Blazer",
+    "Street Blazer"
+   ],
+   "retired": false
+  },
+  {
+   "id": "obey-8f-drafter",
+   "displayName": "Obey 8F Drafter",
+   "manufacturer": "Obey",
+   "model": "8F Drafter",
+   "category": "Coupes",
+   "bodyStyle": "SEDAN",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "8F Drafter",
+    "Obey 8F Drafter"
+   ],
+   "retired": false
+  },
+  {
+   "id": "obey-tailgater-s",
+   "displayName": "Obey Tailgater S",
+   "manufacturer": "Obey",
+   "model": "Tailgater S",
+   "category": "Sedans",
+   "bodyStyle": "SEDAN",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Obey Tailgater S",
+    "Tailgater S"
+   ],
+   "retired": false
+  },
+  {
+   "id": "ocelot-jugular",
+   "displayName": "Ocelot Jugular",
+   "manufacturer": "Ocelot",
+   "model": "Jugular",
+   "category": "Sedans",
+   "bodyStyle": "SEDAN",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-cars",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Jugular",
+    "Ocelot Jugular"
+   ],
+   "retired": false
+  },
+  {
+   "id": "pegassi-tempesta",
+   "displayName": "Pegassi Tempesta",
+   "manufacturer": "Pegassi",
+   "model": "Tempesta",
+   "category": "Super",
+   "bodyStyle": "SUPER",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-cars",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Pegassi Tempesta",
+    "Tempesta"
+   ],
+   "retired": false
+  },
+  {
+   "id": "pegassi-toros",
+   "displayName": "Pegassi Toros",
+   "manufacturer": "Pegassi",
+   "model": "Toros",
+   "category": "SUVs",
+   "bodyStyle": "SUV",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-cars",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Pegassi Toros",
+    "Toros"
+   ],
+   "retired": false
+  },
+  {
+   "id": "pegassi-vitello",
+   "displayName": "Pegassi Vitello",
+   "manufacturer": "Pegassi",
+   "model": "Vitello",
+   "category": "Super",
+   "bodyStyle": "SUPER",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars",
+    "gamespot-dont-blink-these-are-the-fastest-cars-in"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Pegassi Vitello",
+    "Vitello"
+   ],
+   "retired": false
+  },
+  {
+   "id": "pfister-astron",
+   "displayName": "Pfister Astron",
+   "manufacturer": "Pfister",
+   "model": "Astron",
+   "category": "SUVs",
+   "bodyStyle": "SUV",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-cars",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Astron",
+    "Pfister Astron"
+   ],
+   "retired": false
+  },
+  {
+   "id": "pfister-comet-s2",
+   "displayName": "Pfister Comet S2",
+   "manufacturer": "Pfister",
+   "model": "Comet S2",
+   "category": "Sports",
+   "bodyStyle": "SPORTS",
+   "edition": null,
+   "acquisition": "One of the choices in the Chapter 4 'Company Cars' mission; also found in the world.",
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-cars",
+    "gamerant-gta-6-company-cars-best-vehicle-to-pick",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Comet S2",
+    "Pfister Comet S2"
+   ],
+   "retired": false
+  },
+  {
+   "id": "pfister-growler",
+   "displayName": "Pfister Growler",
+   "manufacturer": "Pfister",
+   "model": "Growler",
+   "category": "Sports",
+   "bodyStyle": "SPORTS",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Growler",
+    "Pfister Growler"
+   ],
+   "retired": false
+  },
+  {
+   "id": "pfister-neon",
+   "displayName": "Pfister Neon",
+   "manufacturer": "Pfister",
+   "model": "Neon",
+   "category": "Sports",
+   "bodyStyle": "SPORTS",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Neon",
+    "Pfister Neon"
+   ],
+   "retired": false
+  },
+  {
+   "id": "piccia-furia",
+   "displayName": "Piccia Furia",
+   "manufacturer": "Piccia",
+   "model": "Furia",
+   "category": "Super",
+   "bodyStyle": "SUPER",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Furia",
+    "Piccia Furia"
+   ],
+   "retired": false
+  },
+  {
+   "id": "principe-alvino-v1",
+   "displayName": "Principe Alvino V1",
+   "manufacturer": "Principe",
+   "model": "Alvino V1",
+   "category": "Motorcycles",
+   "bodyStyle": "MOTO",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-vehicle-tier-lists",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Alvino V1",
+    "Principe Alvino V1"
+   ],
+   "retired": false
+  },
+  {
+   "id": "principe-esskey",
+   "displayName": "Principe Esskey",
+   "manufacturer": "Principe",
+   "model": "Esskey",
+   "category": "Motorcycles",
+   "bodyStyle": "MOTO",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-vehicle-tier-lists"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Esskey",
+    "Principe Esskey"
+   ],
+   "retired": false
+  },
+  {
+   "id": "progen-emerus",
+   "displayName": "Progen Emerus",
+   "manufacturer": "Progen",
+   "model": "Emerus",
+   "category": "Super",
+   "bodyStyle": "SUPER",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "gamespot-dont-blink-these-are-the-fastest-cars-in",
+    "beebom-gta-6-vehicles-list"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": "Category = grouping used by the cited source, not necessarily the in-game class.",
+   "aliases": [
+    "Emerus",
+    "Progen Emerus"
+   ],
+   "retired": false
+  },
+  {
+   "id": "schyster-pmp-700",
+   "displayName": "Schyster PMP 700",
+   "manufacturer": "Schyster",
+   "model": "PMP 700",
+   "category": "Sedans",
+   "bodyStyle": "SEDAN",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "PMP 700",
+    "Schyster PMP 700"
+   ],
+   "retired": false
+  },
+  {
+   "id": "seashark-azure",
+   "displayName": "Seashark Azure",
+   "manufacturer": "Seashark",
+   "model": "Azure",
+   "category": "Boats",
+   "bodyStyle": "BOAT",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-vehicle-tier-lists"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Azure",
+    "Seashark Azure"
+   ],
+   "retired": false
+  },
+  {
+   "id": "shitzu-squalo",
+   "displayName": "Shitzu Squalo",
+   "manufacturer": "Shitzu",
+   "model": "Squalo",
+   "category": "Boats",
+   "bodyStyle": "BOAT",
+   "edition": "Ultimate Edition bonus.",
+   "acquisition": "Docked at Washington Beach.",
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_OFFICIAL",
+   "sourceIds": [
+    "rockstargames-ultimate-edition",
+    "kotaku-exclusive-vehicles-guns-and-more-heres-e",
+    "gematsu-grand-theft-auto-vi-pricing-ultimate-edi",
+    "dexerto-vehicle-tier-lists"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": "Category = grouping used by the cited source, not necessarily the in-game class.",
+   "aliases": [
+    "Shitzu Squalo",
+    "Squalo"
+   ],
+   "retired": false
+  },
+  {
+   "id": "speeder-700-gt",
+   "displayName": "Speeder 700 GT",
+   "manufacturer": null,
+   "model": "Speeder 700 GT",
+   "category": "Boats",
+   "bodyStyle": "BOAT",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-vehicle-tier-lists"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Speeder 700 GT"
+   ],
+   "retired": false
+  },
+  {
+   "id": "truffade-thrax",
+   "displayName": "Truffade Thrax",
+   "manufacturer": "Truffade",
+   "model": "Thrax",
+   "category": "Super",
+   "bodyStyle": "SUPER",
+   "edition": null,
+   "acquisition": "Reported near Boone Speedway; keeping it reportedly needs tracker removal and a $70,000 registration (single source, unverified).",
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "gamerant-gta-6-fastest-car-truffade-thrax-locatio",
+    "gamespot-dont-blink-these-are-the-fastest-cars-in"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": "Category = grouping used by the cited source, not necessarily the in-game class.",
+   "aliases": [
+    "Thrax",
+    "Truffade Thrax"
+   ],
+   "retired": false
+  },
+  {
+   "id": "tuff-bmx",
+   "displayName": "Tuff BMX",
+   "manufacturer": "Tuff",
+   "model": "BMX",
+   "category": "Bicycles",
+   "bodyStyle": "BIKE",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-vehicle-tier-lists"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": "Category = grouping used by the cited source, not necessarily the in-game class.",
+   "aliases": [
+    "BMX",
+    "Tuff BMX"
+   ],
+   "retired": false
+  },
+  {
+   "id": "vapid-aleutian",
+   "displayName": "Vapid Aleutian",
+   "manufacturer": "Vapid",
+   "model": "Aleutian",
+   "category": "SUVs",
+   "bodyStyle": "SUV",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-cars",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Aleutian",
+    "Vapid Aleutian"
+   ],
+   "retired": false
+  },
+  {
+   "id": "vapid-caracara-4x4",
+   "displayName": "Vapid Caracara 4x4",
+   "manufacturer": "Vapid",
+   "model": "Caracara 4x4",
+   "category": "Other",
+   "bodyStyle": "OFFROAD",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-cars",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": "Category = grouping used by the cited source, not necessarily the in-game class.",
+   "aliases": [
+    "Caracara 4x4",
+    "Vapid Caracara 4x4"
+   ],
+   "retired": false
+  },
+  {
+   "id": "vapid-dominator",
+   "displayName": "Vapid Dominator",
+   "manufacturer": "Vapid",
+   "model": "Dominator",
+   "category": "Muscle",
+   "bodyStyle": "MUSCLE",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-cars",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Dominator",
+    "Vapid Dominator"
+   ],
+   "retired": false
+  },
+  {
+   "id": "vapid-dominator-asp",
+   "displayName": "Vapid Dominator ASP",
+   "manufacturer": "Vapid",
+   "model": "Dominator ASP",
+   "category": "Muscle",
+   "bodyStyle": "MUSCLE",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-cars",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Dominator ASP",
+    "Vapid Dominator ASP"
+   ],
+   "retired": false
+  },
+  {
+   "id": "vapid-dominator-gt",
+   "displayName": "Vapid Dominator GT",
+   "manufacturer": "Vapid",
+   "model": "Dominator GT",
+   "category": "Muscle",
+   "bodyStyle": "MUSCLE",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Dominator GT",
+    "Vapid Dominator GT"
+   ],
+   "retired": false
+  },
+  {
+   "id": "vapid-lowline",
+   "displayName": "Vapid Lowline",
+   "manufacturer": "Vapid",
+   "model": "Lowline",
+   "category": "Sedans",
+   "bodyStyle": "SEDAN",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Lowline",
+    "Vapid Lowline"
+   ],
+   "retired": false
+  },
+  {
+   "id": "vapid-marshall",
+   "displayName": "Vapid Marshall",
+   "manufacturer": "Vapid",
+   "model": "Marshall",
+   "category": "OffRoad",
+   "bodyStyle": "OFFROAD",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Marshall",
+    "Vapid Marshall"
+   ],
+   "retired": false
+  },
+  {
+   "id": "vapid-montagne",
+   "displayName": "Vapid Montagne",
+   "manufacturer": "Vapid",
+   "model": "Montagne",
+   "category": "SUVs",
+   "bodyStyle": "SUV",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Montagne",
+    "Vapid Montagne"
+   ],
+   "retired": false
+  },
+  {
+   "id": "vapid-rumpo",
+   "displayName": "Vapid Rumpo",
+   "manufacturer": "Vapid",
+   "model": "Rumpo",
+   "category": "Vans",
+   "bodyStyle": "VAN",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Rumpo",
+    "Vapid Rumpo"
+   ],
+   "retired": false
+  },
+  {
+   "id": "vapid-sandking-xl",
+   "displayName": "Vapid Sandking XL",
+   "manufacturer": "Vapid",
+   "model": "Sandking XL",
+   "category": "Other",
+   "bodyStyle": "OFFROAD",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-cars",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": "Category = grouping used by the cited source, not necessarily the in-game class.",
+   "aliases": [
+    "Sandking XL",
+    "Vapid Sandking XL"
+   ],
+   "retired": false
+  },
+  {
+   "id": "vapid-sandking-xt",
+   "displayName": "Vapid Sandking XT",
+   "manufacturer": "Vapid",
+   "model": "Sandking XT",
+   "category": "Other",
+   "bodyStyle": "OFFROAD",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": "Category = grouping used by the cited source, not necessarily the in-game class.",
+   "aliases": [
+    "Sandking XT",
+    "Vapid Sandking XT"
+   ],
+   "retired": false
+  },
+  {
+   "id": "vapid-speedo",
+   "displayName": "Vapid Speedo",
+   "manufacturer": "Vapid",
+   "model": "Speedo",
+   "category": "Vans",
+   "bodyStyle": "VAN",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-cars",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Speedo",
+    "Vapid Speedo"
+   ],
+   "retired": false
+  },
+  {
+   "id": "walter-cruiser",
+   "displayName": "Walter Cruiser",
+   "manufacturer": "Walter",
+   "model": "Cruiser",
+   "category": "Bicycles",
+   "bodyStyle": "BIKE",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-vehicle-tier-lists"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": "Category = grouping used by the cited source, not necessarily the in-game class.",
+   "aliases": [
+    "Cruiser",
+    "Walter Cruiser"
+   ],
+   "retired": false
+  },
+  {
+   "id": "western-nightblade",
+   "displayName": "Western Nightblade",
+   "manufacturer": "Western",
+   "model": "Nightblade",
+   "category": "Motorcycles",
+   "bodyStyle": "MOTO",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-vehicle-tier-lists"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Nightblade",
+    "Western Nightblade"
+   ],
+   "retired": false
+  },
+  {
+   "id": "western-sovereign-107",
+   "displayName": "Western Sovereign 107",
+   "manufacturer": "Western",
+   "model": "Sovereign 107",
+   "category": "Motorcycles",
+   "bodyStyle": "MOTO",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-vehicle-tier-lists"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Sovereign 107",
+    "Western Sovereign 107"
+   ],
+   "retired": false
+  },
+  {
+   "id": "western-zombie-bobber",
+   "displayName": "Western Zombie Bobber",
+   "manufacturer": "Western",
+   "model": "Zombie Bobber",
+   "category": "Motorcycles",
+   "bodyStyle": "MOTO",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-vehicle-tier-lists"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Western Zombie Bobber",
+    "Zombie Bobber"
+   ],
+   "retired": false
+  },
+  {
+   "id": "whiffler-dashound",
+   "displayName": "Whiffler Dashound",
+   "manufacturer": "Whiffler",
+   "model": "Dashound",
+   "category": "Service",
+   "bodyStyle": "VAN",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-vehicles",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": "Category = grouping used by the cited source, not necessarily the in-game class.",
+   "aliases": [
+    "Dashound",
+    "Whiffler Dashound"
+   ],
+   "retired": false
+  },
+  {
+   "id": "willard-transient",
+   "displayName": "Willard Transient",
+   "manufacturer": "Willard",
+   "model": "Transient",
+   "category": "Sedans",
+   "bodyStyle": "SEDAN",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Transient",
+    "Willard Transient"
+   ],
+   "retired": false
+  },
+  {
+   "id": "ubermacht-apoc",
+   "displayName": "Übermacht Apoc",
+   "manufacturer": "Übermacht",
+   "model": "Apoc",
+   "category": "Coupes",
+   "bodyStyle": "SEDAN",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "dexerto-cars"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Apoc",
+    "Übermacht Apoc"
+   ],
+   "retired": false
+  },
+  {
+   "id": "ubermacht-cypher",
+   "displayName": "Übermacht Cypher",
+   "manufacturer": "Übermacht",
+   "model": "Cypher",
+   "category": "Coupes",
+   "bodyStyle": "SEDAN",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-cars",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Cypher",
+    "Übermacht Cypher"
+   ],
+   "retired": false
+  },
+  {
+   "id": "ubermacht-rebla-gts",
+   "displayName": "Übermacht Rebla GTS",
+   "manufacturer": "Übermacht",
+   "model": "Rebla GTS",
+   "category": "SUVs",
+   "bodyStyle": "SUV",
+   "edition": null,
+   "acquisition": null,
+   "price": null,
+   "priceSourceId": null,
+   "verification": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "dexerto-cars",
+    "gamerant-gta-6-new-returning-vehicles-boats-plane"
+   ],
+   "firstSeen": "2026-11-26",
+   "lastVerified": "2026-11-26",
+   "revision": 1,
+   "notes": null,
+   "aliases": [
+    "Rebla GTS",
+    "Übermacht Rebla GTS"
+   ],
+   "retired": false
+  }
+ ]
+}

@@ -1,12 +1,12 @@
 {
  "schemaVersion": 1,
- "catalogVersion": 2,
+ "catalogVersion": 3,
  "updatedAt": "2026-11-26T12:00:00Z",
- "sha256": "4d53992eb06ceb59b654298ad9c962e11abe6971ec6b75bef033136bed4fd77b",
- "url": "https://appvitastudio.github.io/garagevault-data/catalog-v2.json",
- "size": 99911,
+ "sha256": "5108de113eddadbedc19c472a803a2cf32ab2fa31ac5ff8a87a80a14b8bd3bf4",
+ "url": "https://appvitastudio.github.io/garagevault-data/catalog-v3.json",
+ "size": 99720,
  "changelog": {
-  "en": "Clearer edition and acquisition notes for 14 vehicles.",
-  "it": "Note su edizioni e come ottenere piu' chiare per 14 veicoli."
+  "en": "Readable source titles.",
+  "it": "Titoli delle fonti leggibili."
  }
 }
