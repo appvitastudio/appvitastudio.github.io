@@ -1,0 +1,1049 @@
+{
+ "schemaVersion": 1,
+ "catalogVersion": 1,
+ "generatedAt": "2026-11-26",
+ "sources": [
+  {
+   "id": "rs-vi",
+   "title": "Grand Theft Auto VI - official website",
+   "publisher": "Rockstar Games",
+   "url": "https://www.rockstargames.com/VI",
+   "tier": "OFFICIAL",
+   "accessedAt": "2026-11-26"
+  },
+  {
+   "id": "rs-leonida",
+   "title": "Only in Leonida - official region and character pages",
+   "publisher": "Rockstar Games",
+   "url": "https://www.rockstargames.com/VI/only-in-leonida",
+   "tier": "OFFICIAL",
+   "accessedAt": "2026-11-26"
+  },
+  {
+   "id": "vgc-chapters",
+   "title": "GTA 6 chapters and mission list (spoiler-free)",
+   "publisher": "Video Games Chronicle",
+   "url": "https://www.videogameschronicle.com/guide/gta-6-chapters-and-mission-list-how-many-chapters-in-gta-6-spoiler-free/",
+   "tier": "PRESS",
+   "accessedAt": "2026-11-26"
+  },
+  {
+   "id": "pcg-transgressor",
+   "title": "GTA 6 Transgressor locations",
+   "publisher": "PC Gamer",
+   "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-transgressor-locations/",
+   "tier": "PRESS",
+   "accessedAt": "2026-11-26"
+  },
+  {
+   "id": "pcg-cheats",
+   "title": "All GTA 6 cheats and how to unlock them",
+   "publisher": "PC Gamer",
+   "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-cheats-list/",
+   "tier": "PRESS",
+   "accessedAt": "2026-11-26"
+  }
+ ],
+ "regions": [
+  {
+   "id": "vice-city",
+   "name": "Vice City",
+   "palette": 1,
+   "atlas": {
+    "x": 340,
+    "y": 380,
+    "w": 320,
+    "h": 260,
+    "seed": 11
+   },
+   "links": [
+    "ambrosia",
+    "grassrivers",
+    "leonida-keys",
+    "mount-kalaga",
+    "port-gellhorn"
+   ],
+   "desc": {
+    "en": "The neon metropolis at the heart of Leonida: beaches, Art Deco hotels, busy neighbourhoods and a huge cruise port. The busiest hub of the state.",
+    "it": "La metropoli al neon nel cuore della Leonida: spiagge, hotel Art Deco, quartieri vivaci e un enorme porto crocieristico. Il centro più animato dello Stato."
+   },
+   "status": "VERIFIED_OFFICIAL",
+   "sources": [
+    "rs-leonida"
+   ],
+   "verifiedAt": "2026-11-26"
+  },
+  {
+   "id": "ambrosia",
+   "name": "Ambrosia",
+   "palette": 5,
+   "atlas": {
+    "x": 385,
+    "y": 85,
+    "w": 230,
+    "h": 190,
+    "seed": 23
+   },
+   "desc": {
+    "en": "Leonida's inland working heartland: heavy industry, traditional values, a big sugar refinery and a local biker gang.",
+    "it": "Il cuore produttivo dell'entroterra: industria pesante, valori tradizionali, un grande zuccherificio e una banda locale di motociclisti."
+   },
+   "status": "VERIFIED_OFFICIAL",
+   "sources": [
+    "rs-leonida"
+   ],
+   "verifiedAt": "2026-11-26"
+  },
+  {
+   "id": "grassrivers",
+   "name": "Grassrivers",
+   "palette": 4,
+   "atlas": {
+    "x": 699,
+    "y": 313,
+    "w": 230,
+    "h": 190,
+    "seed": 37
+   },
+   "desc": {
+    "en": "Wild primeval wetlands among mangroves. Alligators are the famous residents, but the official page hints at stranger and more dangerous finds.",
+    "it": "Paludi primordiali e selvagge tra le mangrovie. Gli alligatori sono gli abitanti più noti, ma la pagina ufficiale accenna a scoperte più strane e pericolose."
+   },
+   "status": "VERIFIED_OFFICIAL",
+   "sources": [
+    "rs-leonida"
+   ],
+   "verifiedAt": "2026-11-26"
+  },
+  {
+   "id": "leonida-keys",
+   "name": "Leonida Keys",
+   "palette": 0,
+   "atlas": {
+    "x": 579,
+    "y": 682,
+    "w": 230,
+    "h": 190,
+    "seed": 41
+   },
+   "desc": {
+    "en": "A laid-back tropical island chain with casual bars and deck chairs, close to some of the most beautiful and dangerous waters in America.",
+    "it": "Un arcipelago tropicale rilassato, tra bar informali e sdraio, vicino ad alcune delle acque più belle e pericolose d'America."
+   },
+   "status": "VERIFIED_OFFICIAL",
+   "sources": [
+    "rs-leonida"
+   ],
+   "verifiedAt": "2026-11-26"
+  },
+  {
+   "id": "mount-kalaga",
+   "name": "Mount Kalaga National Park",
+   "palette": 3,
+   "atlas": {
+    "x": 191,
+    "y": 682,
+    "w": 230,
+    "h": 190,
+    "seed": 53
+   },
+   "desc": {
+    "en": "A remote, lush national park on the state's northern edge, known for hunting, fishing and off-road trails, and for people who prefer to live off the grid.",
+    "it": "Un parco nazionale remoto e rigoglioso al confine nord dello Stato, noto per caccia, pesca e percorsi fuoristrada, e per chi preferisce vivere lontano da tutto."
+   },
+   "status": "VERIFIED_OFFICIAL",
+   "sources": [
+    "rs-leonida"
+   ],
+   "verifiedAt": "2026-11-26"
+  },
+  {
+   "id": "port-gellhorn",
+   "name": "Port Gellhorn",
+   "palette": 2,
+   "atlas": {
+    "x": 71,
+    "y": 313,
+    "w": 230,
+    "h": 190,
+    "seed": 67
+   },
+   "desc": {
+    "en": "A once-popular seaside resort now faded: cheap motels, shuttered attractions and empty strip malls, with a rough new economy of its own.",
+    "it": "Una località balneare un tempo famosa e ora decaduta: motel economici, attrazioni chiuse e centri commerciali vuoti, con una nuova economia tutta sua."
+   },
+   "status": "VERIFIED_OFFICIAL",
+   "sources": [
+    "rs-leonida"
+   ],
+   "verifiedAt": "2026-11-26"
+  }
+ ],
+ "items": [
+  {
+   "id": "ocean-beach",
+   "name": "Ocean Beach",
+   "category": "LOCATION",
+   "region": "vice-city",
+   "desc": {
+    "en": "Vice City district of pastel Art Deco hotels and white sand, named in the official Vice City presentation.",
+    "it": "Quartiere di Vice City con hotel Art Deco color pastello e sabbia bianca, citato nella presentazione ufficiale di Vice City."
+   },
+   "status": "VERIFIED_OFFICIAL",
+   "sources": [
+    "rs-leonida"
+   ],
+   "verifiedAt": "2026-11-26",
+   "updatedAt": "2026-11-26",
+   "spoiler": 0,
+   "aliases": [
+    "beach",
+    "spiaggia"
+   ]
+  },
+  {
+   "id": "little-cuba",
+   "name": "Little Cuba",
+   "category": "LOCATION",
+   "region": "vice-city",
+   "desc": {
+    "en": "Vice City neighbourhood known for its busy bakeries (panaderias), named in the official Vice City presentation.",
+    "it": "Quartiere di Vice City noto per le sue panaderias sempre affollate, citato nella presentazione ufficiale di Vice City."
+   },
+   "status": "VERIFIED_OFFICIAL",
+   "sources": [
+    "rs-leonida"
+   ],
+   "verifiedAt": "2026-11-26",
+   "updatedAt": "2026-11-26",
+   "spoiler": 0
+  },
+  {
+   "id": "tisha-wocka-market",
+   "name": "Tisha-Wocka flea market",
+   "category": "LOCATION",
+   "region": "vice-city",
+   "desc": {
+    "en": "Vice City flea market famous for knock-off brands, named in the official Vice City presentation.",
+    "it": "Mercatino delle pulci di Vice City famoso per i marchi contraffatti, citato nella presentazione ufficiale di Vice City."
+   },
+   "status": "VERIFIED_OFFICIAL",
+   "sources": [
+    "rs-leonida"
+   ],
+   "verifiedAt": "2026-11-26",
+   "updatedAt": "2026-11-26",
+   "spoiler": 0,
+   "aliases": [
+    "market",
+    "mercato",
+    "mercatino"
+   ]
+  },
+  {
+   "id": "port-of-vice-city",
+   "name": "Port of Vice City",
+   "category": "LOCATION",
+   "region": "vice-city",
+   "desc": {
+    "en": "The city's port, presented officially as a world capital of cruise ships.",
+    "it": "Il porto della città, presentato ufficialmente come capitale mondiale delle navi da crociera."
+   },
+   "status": "VERIFIED_OFFICIAL",
+   "sources": [
+    "rs-leonida"
+   ],
+   "verifiedAt": "2026-11-26",
+   "updatedAt": "2026-11-26",
+   "spoiler": 0,
+   "aliases": [
+    "port",
+    "porto",
+    "cruise",
+    "crociere"
+   ]
+  },
+  {
+   "id": "jack-of-hearts",
+   "name": "Jack of Hearts",
+   "category": "LOCATION",
+   "region": "vice-city",
+   "desc": {
+    "en": "Strip club tied to Boobie Ike's business empire in Vice City, mentioned on his official character page.",
+    "it": "Strip club legato all'impero di Boobie Ike a Vice City, citato nella sua pagina ufficiale."
+   },
+   "status": "VERIFIED_OFFICIAL",
+   "sources": [
+    "rs-leonida"
+   ],
+   "verifiedAt": "2026-11-26",
+   "updatedAt": "2026-11-26",
+   "spoiler": 0,
+   "related": [
+    "boobie-ike"
+   ]
+  },
+  {
+   "id": "only-raw-records",
+   "name": "Only Raw Records",
+   "category": "LOCATION",
+   "region": "vice-city",
+   "desc": {
+    "en": "Music label run by Boobie Ike and Dre'Quan Priest, home of the duo Real Dimez according to the official pages.",
+    "it": "Etichetta musicale di Boobie Ike e Dre'Quan Priest, casa del duo Real Dimez secondo le pagine ufficiali."
+   },
+   "status": "VERIFIED_OFFICIAL",
+   "sources": [
+    "rs-leonida"
+   ],
+   "verifiedAt": "2026-11-26",
+   "updatedAt": "2026-11-26",
+   "spoiler": 0,
+   "related": [
+    "boobie-ike",
+    "drequan-priest",
+    "real-dimez"
+   ],
+   "aliases": [
+    "records",
+    "label",
+    "etichetta"
+   ]
+  },
+  {
+   "id": "allied-crystal-refinery",
+   "name": "Allied Crystal sugar refinery",
+   "category": "LOCATION",
+   "region": "ambrosia",
+   "desc": {
+    "en": "The big employer of Ambrosia: a sugar refinery named in the official Ambrosia presentation.",
+    "it": "Il grande datore di lavoro di Ambrosia: uno zuccherificio citato nella presentazione ufficiale di Ambrosia."
+   },
+   "status": "VERIFIED_OFFICIAL",
+   "sources": [
+    "rs-leonida"
+   ],
+   "verifiedAt": "2026-11-26",
+   "updatedAt": "2026-11-26",
+   "spoiler": 0,
+   "aliases": [
+    "sugar",
+    "zuccherificio",
+    "refinery"
+   ]
+  },
+  {
+   "id": "brian-boat-yard",
+   "name": "Brian Heder's boat yard",
+   "category": "LOCATION",
+   "region": "leonida-keys",
+   "desc": {
+    "en": "The boat yard through which Brian Heder still runs his business together with his wife Lori, per his official page. The yard's exact name is not given.",
+    "it": "La rimessa nautica da cui Brian Heder gestisce ancora i suoi affari con la moglie Lori, secondo la sua pagina ufficiale. Il nome esatto non è indicato."
+   },
+   "status": "VERIFIED_OFFICIAL",
+   "sources": [
+    "rs-leonida"
+   ],
+   "verifiedAt": "2026-11-26",
+   "updatedAt": "2026-11-26",
+   "spoiler": 0,
+   "related": [
+    "brian-heder"
+   ],
+   "aliases": [
+    "boat",
+    "barche",
+    "rimessa"
+   ]
+  },
+  {
+   "id": "leonida-penitentiary",
+   "name": "Leonida Penitentiary",
+   "category": "LOCATION",
+   "desc": {
+    "en": "State prison mentioned on Lucia Caminos' official page. Its region is not stated, so it is not placed on the atlas.",
+    "it": "Il carcere statale citato nella pagina ufficiale di Lucia Caminos. La regione non è indicata, quindi non è posizionato sull'atlante."
+   },
+   "status": "VERIFIED_OFFICIAL",
+   "sources": [
+    "rs-leonida"
+   ],
+   "verifiedAt": "2026-11-26",
+   "updatedAt": "2026-11-26",
+   "spoiler": 0,
+   "related": [
+    "lucia-caminos"
+   ],
+   "aliases": [
+    "prison",
+    "prigione",
+    "carcere"
+   ]
+  },
+  {
+   "id": "sarenas-bargain-store",
+   "name": "Sarena's Bargain Store",
+   "category": "LOCATION",
+   "region": "port-gellhorn",
+   "desc": {
+    "en": "Store in central Port Gellhorn that press guides use as a landmark for nearby collectibles.",
+    "it": "Negozio nel centro di Port Gellhorn usato dalle guide della stampa come punto di riferimento per i collezionabili vicini."
+   },
+   "status": "VERIFIED_SECONDARY",
+   "sources": [
+    "pcg-transgressor"
+   ],
+   "verifiedAt": "2026-11-26",
+   "updatedAt": "2026-11-26",
+   "spoiler": 0
+  },
+  {
+   "id": "dirt-merchants",
+   "name": "Dirt Merchants",
+   "category": "LOCATION",
+   "region": "port-gellhorn",
+   "desc": {
+    "en": "Port Gellhorn business that press guides use as a landmark for one of the restoration wrecks.",
+    "it": "Attività di Port Gellhorn usata dalle guide come riferimento per uno dei relitti da restaurare."
+   },
+   "status": "VERIFIED_SECONDARY",
+   "sources": [
+    "pcg-transgressor"
+   ],
+   "verifiedAt": "2026-11-26",
+   "updatedAt": "2026-11-26",
+   "spoiler": 0
+  },
+  {
+   "id": "hunting-kalaga",
+   "name": "Hunting",
+   "category": "ACTIVITY",
+   "region": "mount-kalaga",
+   "desc": {
+    "en": "Mount Kalaga is officially presented as prime hunting ground.",
+    "it": "Il Monte Kalaga è presentato ufficialmente come un'ottima zona di caccia."
+   },
+   "status": "VERIFIED_OFFICIAL",
+   "sources": [
+    "rs-leonida"
+   ],
+   "verifiedAt": "2026-11-26",
+   "updatedAt": "2026-11-26",
+   "spoiler": 0,
+   "aliases": [
+    "caccia",
+    "hunt"
+   ]
+  },
+  {
+   "id": "fishing-kalaga",
+   "name": "Fishing",
+   "category": "ACTIVITY",
+   "region": "mount-kalaga",
+   "desc": {
+    "en": "Mount Kalaga is officially presented as a place for fishing.",
+    "it": "Il Monte Kalaga è presentato ufficialmente come luogo di pesca."
+   },
+   "status": "VERIFIED_OFFICIAL",
+   "sources": [
+    "rs-leonida"
+   ],
+   "verifiedAt": "2026-11-26",
+   "updatedAt": "2026-11-26",
+   "spoiler": 0,
+   "aliases": [
+    "pesca",
+    "fish"
+   ]
+  },
+  {
+   "id": "offroad-trails-kalaga",
+   "name": "Off-road trails",
+   "category": "ACTIVITY",
+   "region": "mount-kalaga",
+   "desc": {
+    "en": "The national park offers off-road trails, according to the official region page.",
+    "it": "Il parco nazionale offre percorsi fuoristrada, secondo la pagina ufficiale della regione."
+   },
+   "status": "VERIFIED_OFFICIAL",
+   "sources": [
+    "rs-leonida"
+   ],
+   "verifiedAt": "2026-11-26",
+   "updatedAt": "2026-11-26",
+   "spoiler": 0,
+   "aliases": [
+    "fuoristrada",
+    "offroad",
+    "4x4"
+   ]
+  },
+  {
+   "id": "challenges-exploration",
+   "name": "Exploration challenges",
+   "category": "ACTIVITY",
+   "desc": {
+    "en": "A family of in-game challenges reported by the press; completing them unlocks rewards. The exact list is not catalogued yet.",
+    "it": "Una famiglia di sfide di gioco riportata dalla stampa; completarle sblocca ricompense. L'elenco esatto non è ancora catalogato."
+   },
+   "status": "VERIFIED_SECONDARY",
+   "sources": [
+    "pcg-cheats"
+   ],
+   "verifiedAt": "2026-11-26",
+   "updatedAt": "2026-11-26",
+   "spoiler": 0,
+   "aliases": [
+    "sfide",
+    "esplorazione"
+   ]
+  },
+  {
+   "id": "challenges-fitness",
+   "name": "Fitness challenges",
+   "category": "ACTIVITY",
+   "desc": {
+    "en": "Challenge family reported by the press. The exact list is not catalogued yet.",
+    "it": "Famiglia di sfide riportata dalla stampa. L'elenco esatto non è ancora catalogato."
+   },
+   "status": "VERIFIED_SECONDARY",
+   "sources": [
+    "pcg-cheats"
+   ],
+   "verifiedAt": "2026-11-26",
+   "updatedAt": "2026-11-26",
+   "spoiler": 0,
+   "aliases": [
+    "sfide",
+    "fitness"
+   ]
+  },
+  {
+   "id": "challenges-vehicle",
+   "name": "Vehicle challenges",
+   "category": "ACTIVITY",
+   "desc": {
+    "en": "Challenge family reported by the press. The exact list is not catalogued yet.",
+    "it": "Famiglia di sfide riportata dalla stampa. L'elenco esatto non è ancora catalogato."
+   },
+   "status": "VERIFIED_SECONDARY",
+   "sources": [
+    "pcg-cheats"
+   ],
+   "verifiedAt": "2026-11-26",
+   "updatedAt": "2026-11-26",
+   "spoiler": 0,
+   "aliases": [
+    "sfide",
+    "veicoli"
+   ]
+  },
+  {
+   "id": "challenges-sports",
+   "name": "Sports challenges",
+   "category": "ACTIVITY",
+   "desc": {
+    "en": "Challenge family reported by the press. The exact list is not catalogued yet.",
+    "it": "Famiglia di sfide riportata dalla stampa. L'elenco esatto non è ancora catalogato."
+   },
+   "status": "VERIFIED_SECONDARY",
+   "sources": [
+    "pcg-cheats"
+   ],
+   "verifiedAt": "2026-11-26",
+   "updatedAt": "2026-11-26",
+   "spoiler": 0,
+   "aliases": [
+    "sfide",
+    "sport"
+   ]
+  },
+  {
+   "id": "challenges-survival",
+   "name": "Survival challenges",
+   "category": "ACTIVITY",
+   "desc": {
+    "en": "Challenge family reported by the press. The exact list is not catalogued yet.",
+    "it": "Famiglia di sfide riportata dalla stampa. L'elenco esatto non è ancora catalogato."
+   },
+   "status": "VERIFIED_SECONDARY",
+   "sources": [
+    "pcg-cheats"
+   ],
+   "verifiedAt": "2026-11-26",
+   "updatedAt": "2026-11-26",
+   "spoiler": 0,
+   "aliases": [
+    "sfide",
+    "sopravvivenza"
+   ]
+  },
+  {
+   "id": "challenges-criminal",
+   "name": "Criminal challenges",
+   "category": "ACTIVITY",
+   "desc": {
+    "en": "Challenge family reported by the press. The exact list is not catalogued yet.",
+    "it": "Famiglia di sfide riportata dalla stampa. L'elenco esatto non è ancora catalogato."
+   },
+   "status": "VERIFIED_SECONDARY",
+   "sources": [
+    "pcg-cheats"
+   ],
+   "verifiedAt": "2026-11-26",
+   "updatedAt": "2026-11-26",
+   "spoiler": 0,
+   "aliases": [
+    "sfide",
+    "crimine"
+   ]
+  },
+  {
+   "id": "cocaine-flamingos",
+   "name": "Cocaine flamingos",
+   "category": "COLLECTIBLE",
+   "desc": {
+    "en": "Destructible flamingo collectibles reported by the press; destroying a number of them unlocks a reward. The total count is not verified, so Vice Atlas does not show one.",
+    "it": "Fenicotteri collezionabili da distruggere, riportati dalla stampa; distruggerne un certo numero sblocca una ricompensa. Il totale non è verificato, quindi Vice Atlas non lo indica."
+   },
+   "status": "VERIFIED_SECONDARY",
+   "sources": [
+    "pcg-cheats"
+   ],
+   "verifiedAt": "2026-11-26",
+   "updatedAt": "2026-11-26",
+   "spoiler": 0,
+   "aliases": [
+    "flamingo",
+    "fenicotteri"
+   ]
+  },
+  {
+   "id": "transgressor-wreck-1",
+   "name": "Transgressor wreck #1",
+   "category": "COLLECTIBLE",
+   "region": "port-gellhorn",
+   "chapter": 2,
+   "desc": {
+    "en": "One of three wrecked Transgressors to scan for a restoration side job: in a trailer park north of Sarena's Bargain Store.",
+    "it": "Uno dei tre Transgressor distrutti da scansionare per un incarico di restauro: in un'area per roulotte a nord di Sarena's Bargain Store."
+   },
+   "status": "VERIFIED_SECONDARY",
+   "sources": [
+    "pcg-transgressor"
+   ],
+   "verifiedAt": "2026-11-26",
+   "updatedAt": "2026-11-26",
+   "spoiler": 1,
+   "related": [
+    "transgressor",
+    "sarenas-bargain-store"
+   ],
+   "aliases": [
+    "relitto",
+    "wreck"
+   ]
+  },
+  {
+   "id": "transgressor-wreck-2",
+   "name": "Transgressor wreck #2",
+   "category": "COLLECTIBLE",
+   "region": "port-gellhorn",
+   "chapter": 2,
+   "desc": {
+    "en": "Second wreck of the restoration side job: across from a stash house in Port Gellhorn.",
+    "it": "Secondo relitto dell'incarico di restauro: di fronte a un covo a Port Gellhorn."
+   },
+   "status": "VERIFIED_SECONDARY",
+   "sources": [
+    "pcg-transgressor"
+   ],
+   "verifiedAt": "2026-11-26",
+   "updatedAt": "2026-11-26",
+   "spoiler": 1,
+   "related": [
+    "transgressor"
+   ],
+   "aliases": [
+    "relitto",
+    "wreck"
+   ]
+  },
+  {
+   "id": "transgressor-wreck-3",
+   "name": "Transgressor wreck #3",
+   "category": "COLLECTIBLE",
+   "region": "port-gellhorn",
+   "chapter": 2,
+   "desc": {
+    "en": "Third wreck of the restoration side job: behind Dirt Merchants.",
+    "it": "Terzo relitto dell'incarico di restauro: dietro Dirt Merchants."
+   },
+   "status": "VERIFIED_SECONDARY",
+   "sources": [
+    "pcg-transgressor"
+   ],
+   "verifiedAt": "2026-11-26",
+   "updatedAt": "2026-11-26",
+   "spoiler": 1,
+   "related": [
+    "transgressor",
+    "dirt-merchants"
+   ],
+   "aliases": [
+    "relitto",
+    "wreck"
+   ]
+  },
+  {
+   "id": "transgressor",
+   "name": "Transgressor (restoration)",
+   "category": "VEHICLE",
+   "region": "port-gellhorn",
+   "chapter": 2,
+   "desc": {
+    "en": "Classic car you can restore and then drive after scanning three wrecks around Port Gellhorn with the in-game WAiNK It app, per press guides. Available after a Chapter 2 story mission.",
+    "it": "Auto classica da restaurare e poi guidare dopo aver scansionato tre relitti a Port Gellhorn con l'app di gioco WAiNK It, secondo le guide. Disponibile dopo una missione del Capitolo 2."
+   },
+   "status": "VERIFIED_SECONDARY",
+   "sources": [
+    "pcg-transgressor"
+   ],
+   "verifiedAt": "2026-11-26",
+   "updatedAt": "2026-11-26",
+   "spoiler": 1,
+   "related": [
+    "transgressor-wreck-1",
+    "transgressor-wreck-2",
+    "transgressor-wreck-3"
+   ],
+   "aliases": [
+    "restauro",
+    "restoration",
+    "auto"
+   ]
+  },
+  {
+   "id": "vapid-dominator-65",
+   "name": "'65 Vapid Dominator",
+   "category": "VEHICLE",
+   "chapter": 2,
+   "desc": {
+    "en": "Classic car the press links to the restoration side content. Availability differs by game edition.",
+    "it": "Auto classica che la stampa collega ai contenuti di restauro. La disponibilità cambia a seconda dell'edizione del gioco."
+   },
+   "status": "VERIFIED_SECONDARY",
+   "sources": [
+    "pcg-transgressor",
+    "pcg-cheats"
+   ],
+   "verifiedAt": "2026-11-26",
+   "updatedAt": "2026-11-26",
+   "spoiler": 1,
+   "modeNote": "Edition-dependent (press mentions the Ultimate Edition)",
+   "aliases": [
+    "dominator"
+   ]
+  },
+  {
+   "id": "chapter-1",
+   "name": "Story - Chapter 1",
+   "category": "MISSION",
+   "chapter": 1,
+   "desc": {
+    "en": "First of the five story chapters reported by the press (the main story counts about 95 missions in total).",
+    "it": "Primo dei cinque capitoli della storia riportati dalla stampa (in totale la storia principale conta circa 95 missioni)."
+   },
+   "status": "VERIFIED_SECONDARY",
+   "sources": [
+    "vgc-chapters"
+   ],
+   "verifiedAt": "2026-11-26",
+   "updatedAt": "2026-11-26",
+   "spoiler": 0,
+   "aliases": [
+    "capitolo",
+    "chapter",
+    "storia",
+    "story"
+   ]
+  },
+  {
+   "id": "chapter-2",
+   "name": "Story - Chapter 2",
+   "category": "MISSION",
+   "chapter": 2,
+   "desc": {
+    "en": "Second story chapter. Among other things it unlocks the restoration side job in Port Gellhorn.",
+    "it": "Secondo capitolo della storia. Tra l'altro sblocca l'incarico di restauro a Port Gellhorn."
+   },
+   "status": "VERIFIED_SECONDARY",
+   "sources": [
+    "vgc-chapters",
+    "pcg-transgressor"
+   ],
+   "verifiedAt": "2026-11-26",
+   "updatedAt": "2026-11-26",
+   "spoiler": 1,
+   "related": [
+    "transgressor"
+   ],
+   "aliases": [
+    "capitolo",
+    "chapter",
+    "storia",
+    "story"
+   ]
+  },
+  {
+   "id": "chapter-3",
+   "name": "Story - Chapter 3",
+   "category": "MISSION",
+   "chapter": 3,
+   "desc": {
+    "en": "Third story chapter, set back in Vice City according to the press.",
+    "it": "Terzo capitolo della storia, di nuovo a Vice City secondo la stampa."
+   },
+   "status": "VERIFIED_SECONDARY",
+   "sources": [
+    "vgc-chapters"
+   ],
+   "verifiedAt": "2026-11-26",
+   "updatedAt": "2026-11-26",
+   "spoiler": 2,
+   "aliases": [
+    "capitolo",
+    "chapter",
+    "storia",
+    "story"
+   ]
+  },
+  {
+   "id": "chapter-4",
+   "name": "Story - Chapter 4",
+   "category": "MISSION",
+   "chapter": 4,
+   "desc": {
+    "en": "Fourth story chapter. Details intentionally left out.",
+    "it": "Quarto capitolo della storia. Dettagli omessi di proposito."
+   },
+   "status": "VERIFIED_SECONDARY",
+   "sources": [
+    "vgc-chapters"
+   ],
+   "verifiedAt": "2026-11-26",
+   "updatedAt": "2026-11-26",
+   "spoiler": 2,
+   "aliases": [
+    "capitolo",
+    "chapter",
+    "storia",
+    "story"
+   ]
+  },
+  {
+   "id": "chapter-5",
+   "name": "Story - Chapter 5",
+   "category": "MISSION",
+   "chapter": 5,
+   "desc": {
+    "en": "Final story chapter. Details intentionally left out.",
+    "it": "Capitolo finale della storia. Dettagli omessi di proposito."
+   },
+   "status": "VERIFIED_SECONDARY",
+   "sources": [
+    "vgc-chapters"
+   ],
+   "verifiedAt": "2026-11-26",
+   "updatedAt": "2026-11-26",
+   "spoiler": 3,
+   "aliases": [
+    "capitolo",
+    "chapter",
+    "storia",
+    "story",
+    "finale"
+   ]
+  },
+  {
+   "id": "jason-duval",
+   "name": "Jason Duval",
+   "category": "CHARACTER",
+   "region": "leonida-keys",
+   "desc": {
+    "en": "Protagonist. Ex-army, raised among grifters, now doing jobs for drug runners in the Keys and hoping for an easier life.",
+    "it": "Protagonista. Ex militare cresciuto tra truffatori, lavora per i trafficanti delle Keys e spera in una vita più semplice."
+   },
+   "status": "VERIFIED_OFFICIAL",
+   "sources": [
+    "rs-leonida"
+   ],
+   "verifiedAt": "2026-11-26",
+   "updatedAt": "2026-11-26",
+   "spoiler": 0,
+   "aliases": [
+    "jason",
+    "protagonist",
+    "protagonista"
+   ]
+  },
+  {
+   "id": "lucia-caminos",
+   "name": "Lucia Caminos",
+   "category": "CHARACTER",
+   "desc": {
+    "en": "Protagonist. Fresh out of Leonida Penitentiary and set on turning her luck around, whatever it takes.",
+    "it": "Protagonista. Appena uscita dal penitenziario della Leonida e decisa a ribaltare la sua sorte, a ogni costo."
+   },
+   "status": "VERIFIED_OFFICIAL",
+   "sources": [
+    "rs-leonida"
+   ],
+   "verifiedAt": "2026-11-26",
+   "updatedAt": "2026-11-26",
+   "spoiler": 0,
+   "related": [
+    "leonida-penitentiary"
+   ],
+   "aliases": [
+    "lucia",
+    "protagonist",
+    "protagonista"
+   ]
+  },
+  {
+   "id": "cal-hampton",
+   "name": "Cal Hampton",
+   "category": "CHARACTER",
+   "desc": {
+    "en": "Jason's friend and Brian's associate, a homebody who likes listening in on Coast Guard radio.",
+    "it": "Amico di Jason e socio di Brian, un tipo casalingo che ama ascoltare le frequenze della guardia costiera."
+   },
+   "status": "VERIFIED_OFFICIAL",
+   "sources": [
+    "rs-leonida"
+   ],
+   "verifiedAt": "2026-11-26",
+   "updatedAt": "2026-11-26",
+   "spoiler": 0,
+   "aliases": [
+    "cal"
+   ]
+  },
+  {
+   "id": "boobie-ike",
+   "name": "Boobie Ike",
+   "category": "CHARACTER",
+   "region": "vice-city",
+   "desc": {
+    "en": "Vice City legend whose business interests include real estate, a strip club and a recording studio.",
+    "it": "Leggenda di Vice City con interessi in immobili, uno strip club e uno studio di registrazione."
+   },
+   "status": "VERIFIED_OFFICIAL",
+   "sources": [
+    "rs-leonida"
+   ],
+   "verifiedAt": "2026-11-26",
+   "updatedAt": "2026-11-26",
+   "spoiler": 0,
+   "related": [
+    "jack-of-hearts",
+    "only-raw-records"
+   ],
+   "aliases": [
+    "boobie"
+   ]
+  },
+  {
+   "id": "drequan-priest",
+   "name": "Dre'Quan Priest",
+   "category": "CHARACTER",
+   "region": "vice-city",
+   "desc": {
+    "en": "Aspiring music mogul and Boobie's partner at Only Raw Records.",
+    "it": "Aspirante magnate della musica e socio di Boobie alla Only Raw Records."
+   },
+   "status": "VERIFIED_OFFICIAL",
+   "sources": [
+    "rs-leonida"
+   ],
+   "verifiedAt": "2026-11-26",
+   "updatedAt": "2026-11-26",
+   "spoiler": 0,
+   "related": [
+    "only-raw-records"
+   ],
+   "aliases": [
+    "drequan",
+    "dre quan"
+   ]
+  },
+  {
+   "id": "real-dimez",
+   "name": "Real Dimez",
+   "category": "CHARACTER",
+   "region": "vice-city",
+   "desc": {
+    "en": "Rap duo of two long-time friends, signed to Only Raw Records and chasing another hit.",
+    "it": "Duo rap di due amiche di lunga data, sotto contratto con la Only Raw Records e a caccia di un altro successo."
+   },
+   "status": "VERIFIED_OFFICIAL",
+   "sources": [
+    "rs-leonida"
+   ],
+   "verifiedAt": "2026-11-26",
+   "updatedAt": "2026-11-26",
+   "spoiler": 0,
+   "related": [
+    "only-raw-records"
+   ],
+   "aliases": [
+    "dimez"
+   ]
+  },
+  {
+   "id": "raul-bautista",
+   "name": "Raul Bautista",
+   "category": "CHARACTER",
+   "desc": {
+    "en": "Confident, seasoned bank robber always on the lookout for talent willing to take big risks.",
+    "it": "Rapinatore di banche esperto e sicuro di sé, sempre in cerca di talenti disposti a rischiare."
+   },
+   "status": "VERIFIED_OFFICIAL",
+   "sources": [
+    "rs-leonida"
+   ],
+   "verifiedAt": "2026-11-26",
+   "updatedAt": "2026-11-26",
+   "spoiler": 0,
+   "aliases": [
+    "raul"
+   ]
+  },
+  {
+   "id": "brian-heder",
+   "name": "Brian Heder",
+   "category": "CHARACTER",
+   "region": "leonida-keys",
+   "desc": {
+    "en": "Old-school Keys smuggler who lets Jason live in one of his properties in exchange for favours.",
+    "it": "Contrabbandiere vecchia scuola delle Keys che ospita Jason in una sua proprietà in cambio di favori."
+   },
+   "status": "VERIFIED_OFFICIAL",
+   "sources": [
+    "rs-leonida"
+   ],
+   "verifiedAt": "2026-11-26",
+   "updatedAt": "2026-11-26",
+   "spoiler": 0,
+   "related": [
+    "brian-boat-yard"
+   ],
+   "aliases": [
+    "brian"
+   ]
+  }
+ ],
+ "idMigrations": {}
+}
