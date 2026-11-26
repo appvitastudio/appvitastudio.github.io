@@ -1,12 +1,12 @@
 {
  "schemaVersion": 1,
- "catalogVersion": 1,
+ "catalogVersion": 2,
  "updatedAt": "2026-11-26T12:00:00Z",
- "sha256": "199d1fdcd972d11041fe323a32171f10f8f19b75d736f77f48014e49567bfbe4",
- "url": "https://appvitastudio.github.io/garagevault-data/catalog-v1.json",
- "size": 101039,
+ "sha256": "4d53992eb06ceb59b654298ad9c962e11abe6971ec6b75bef033136bed4fd77b",
+ "url": "https://appvitastudio.github.io/garagevault-data/catalog-v2.json",
+ "size": 99911,
  "changelog": {
-  "en": "Initial catalog: 159 GTA VI vehicles with sources (5 official, 66 verified, 88 unverified).",
-  "it": "Catalogo iniziale: 159 veicoli di GTA VI con fonti (5 ufficiali, 66 verificati, 88 non verificati)."
+  "en": "Clearer edition and acquisition notes for 14 vehicles.",
+  "it": "Note su edizioni e come ottenere piu' chiare per 14 veicoli."
  }
 }
