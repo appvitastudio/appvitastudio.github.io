@@ -1,0 +1,11 @@
+{
+ "schemaVersion": 1,
+ "catalogVersion": 1,
+ "url": "https://appvitastudio.github.io/cheatvault-data/catalog-v1.json",
+ "sha256": "3dc83bf0cc06bfbafda10f12102330b0de55a2e2d6530a466f2ba5c0b0a6c98a",
+ "generatedAt": "2026-11-27",
+ "minAppVersion": 1,
+ "changelog": [
+  "First catalog: 61 GTA VI cheats documented, 21 with a published sequence, none verified in the game yet."
+ ]
+}
